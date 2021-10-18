@@ -89,51 +89,54 @@ function getVariants(colorList, sizeList, index, group) {
   }, [])
 }
 
+function createData(group) {
+  let products = [];
+  let category = ''
+  let sizes = []
+  let variants = [];
 
+  for (let i = 0; i < arrayLength; i++) {
+    getProductStatus();
+    controlProductId++;
+    category = productInfo[group]['categories'][i];
+    sizes = getSizes(category);
+    variants = getVariants(colors, sizes, i, group);
+
+    products.push({
+      "id": controlProductId,
+      "images": {
+        "img": getImgUrl(i, group),
+        "imgOnHover": getImgOnHoverUrl(i, group),
+      },
+      "category": category,
+      "name": productInfo[group]['productName'][i],
+      "isNew": productStatus.isNew,
+      "pricing": {
+        "price": '$' + productStatus.price,
+        "discount": productStatus.discountVal,
+        "discountedPrice": productStatus.discountedPrice,
+      },
+      "sizes": sizes,
+      "colors": ['White', 'Black'],
+      "variants": variants
+    })
+  }
+  return products;
+}
+
+for (const key of categoryKeys) {
+  const data = createData(key);
+  fs.writeFileSync(`./${key}.json`, JSON.stringify(data));
+}
+
+/* Cach cu de gen data tu json-server
 const generate = function () {
   let data = {}
-
-  function createData(group) {
-    let products = [];
-    let category = ''
-    let sizes = []
-    let variants = [];
-
-    for (let i = 0; i < arrayLength; i++) {
-      getProductStatus();
-      controlProductId++;
-      category = productInfo[group]['categories'][i];
-      sizes = getSizes(category);
-      variants = getVariants(colors, sizes, i, group);
-
-      products.push({
-        "id": controlProductId,
-        "images": {
-          "img": getImgUrl(i, group),
-          "imgOnHover": getImgOnHoverUrl(i, group),
-        },
-        "category": category,
-        "name": productInfo[group]['productName'][i],
-        "isNew": productStatus.isNew,
-        "pricing": {
-          "price": '$' + productStatus.price,
-          "discount": productStatus.discountVal,
-          "discountedPrice": productStatus.discountedPrice,
-        },
-        "sizes": sizes,
-        "colors": ['White', 'Black'],
-        "variants": variants
-      })
-    }
-    return products;
-  }
-
   for (const key of categoryKeys) {
     data[key] = createData(key);
   }
-
   return data
 }
-
 const data = generate();
 fs.writeFileSync('./db.json', JSON.stringify(data));
+*/

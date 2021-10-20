@@ -118,7 +118,8 @@ function createData(group) {
       },
       "sizes": sizes,
       "colors": ['White', 'Black'],
-      "variants": variants
+      "variants": variants,
+      "isWishlisted": false
     })
   }
   return products;

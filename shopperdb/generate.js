@@ -22,7 +22,7 @@ let productStatus = {
   isNew: undefined,
   price: undefined,
   discountVal: undefined,
-  discountedPrice: undefined
+  priceAfterDiscount: undefined
 }
 
 function getProductStatus() {
@@ -37,7 +37,8 @@ function getProductStatus() {
 
   // Price
   productStatus.price = (random(30, 500)).toFixed(2);
-  productStatus.discountedPrice = isDiscounted ? '$' + ((productStatus.price * (1 - productStatus.discountVal)).toFixed(2)) : '';
+  productStatus.priceAfterDiscount = isDiscounted ? '$' + ((productStatus.price * (1 - productStatus.discountVal)).toFixed(2)) : '';
+  productStatus.priceAfterDiscount = '$' + (productStatus.price * (1 - productStatus.discountVal)).toFixed(2);
 }
 
 /* Sizes */
@@ -114,12 +115,11 @@ function createData(group) {
       "pricing": {
         "price": '$' + productStatus.price,
         "discount": productStatus.discountVal,
-        "discountedPrice": productStatus.discountedPrice,
+        "priceAfterDiscount": productStatus.priceAfterDiscount,
       },
       "sizes": sizes,
       "colors": ['White', 'Black'],
       "variants": variants,
-      "isWishlisted": false
     })
   }
   return products;

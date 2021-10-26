@@ -1,1 +1,690 @@
-[{"id":9,"images":{"img":"/img/products/men/product1a.jpeg","imgOnHover":"/img/products/men/product1b.jpeg"},"category":"Casual Shirts","name":"Plaid silk and cotton flannel shirt","isNew":false,"pricing":{"price":"$137.00","discount":0.69,"discountedPrice":"$42.47"},"sizes":["XS","S","M","L","XL","XXL"],"colors":["White","Black"],"variants":[{"variantId":16,"variantColor":"White","variantImage":"/img/products/men/product1a.jpeg","stock":[{"XS":0},{"S":0},{"M":1},{"L":1},{"XL":4},{"XXL":0}]},{"variantId":17,"variantColor":"Black","variantImage":"/img/products/men/product1a.jpeg","stock":[{"XS":0},{"S":2},{"M":2},{"L":1},{"XL":2},{"XXL":1}]}],"isWishlisted":false},{"id":10,"images":{"img":"/img/products/men/product2a.jpeg","imgOnHover":"/img/products/men/product2b.jpeg"},"category":"Pants","name":"High-rise pleated wool trousers","isNew":false,"pricing":{"price":"$396.00","discount":0,"discountedPrice":""},"sizes":["XS","S","M","L","XL","XXL"],"colors":["White","Black"],"variants":[{"variantId":18,"variantColor":"White","variantImage":"/img/products/men/product2a.jpeg","stock":[{"XS":3},{"S":3},{"M":2},{"L":1},{"XL":3},{"XXL":0}]},{"variantId":19,"variantColor":"Black","variantImage":"/img/products/men/product2a.jpeg","stock":[{"XS":2},{"S":4},{"M":4},{"L":0},{"XL":2},{"XXL":4}]}],"isWishlisted":false},{"id":11,"images":{"img":"/img/products/men/product3a.jpeg","imgOnHover":"/img/products/men/product3b.jpeg"},"category":"Shoes","name":"Weejuns 90s Larson leather penny loafers","isNew":false,"pricing":{"price":"$42.00","discount":0.61,"discountedPrice":"$16.38"},"sizes":["6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","13","14"],"colors":["White","Black"],"variants":[{"variantId":20,"variantColor":"White","variantImage":"/img/products/men/product3a.jpeg","stock":[{"6":1},{"6.5":5},{"7":3},{"7.5":2},{"8":1},{"8.5":1},{"9":4},{"9.5":1},{"10":1},{"10.5":5},{"11":1},{"11.5":4},{"12":5},{"13":0},{"14":1}]},{"variantId":21,"variantColor":"Black","variantImage":"/img/products/men/product3a.jpeg","stock":[{"6":4},{"6.5":1},{"7":2},{"7.5":2},{"8":0},{"8.5":0},{"9":0},{"9.5":3},{"10":4},{"10.5":1},{"11":2},{"11.5":0},{"12":2},{"13":3},{"14":4}]}],"isWishlisted":false},{"id":12,"images":{"img":"/img/products/men/product4a.jpeg","imgOnHover":"/img/products/men/product4b.jpeg"},"category":"Sweats","name":"Logo-print jersey sweatshirt","isNew":true,"pricing":{"price":"$265.00","discount":0,"discountedPrice":""},"sizes":["XS","S","M","L","XL","XXL"],"colors":["White","Black"],"variants":[{"variantId":22,"variantColor":"White","variantImage":"/img/products/men/product4a.jpeg","stock":[{"XS":2},{"S":1},{"M":0},{"L":5},{"XL":4},{"XXL":1}]},{"variantId":23,"variantColor":"Black","variantImage":"/img/products/men/product4a.jpeg","stock":[{"XS":2},{"S":1},{"M":1},{"L":3},{"XL":3},{"XXL":4}]}],"isWishlisted":false},{"id":13,"images":{"img":"/img/products/men/product5a.jpeg","imgOnHover":"/img/products/men/product5b.jpeg"},"category":"Bags","name":"Tablier leather cross-body bag","isNew":false,"pricing":{"price":"$270.00","discount":0.17,"discountedPrice":"$224.10"},"sizes":["Free size"],"colors":["White","Black"],"variants":[{"variantId":24,"variantColor":"White","variantImage":"/img/products/men/product5a.jpeg","stock":[{"Free size":4}]},{"variantId":25,"variantColor":"Black","variantImage":"/img/products/men/product5a.jpeg","stock":[{"Free size":4}]}],"isWishlisted":false},{"id":14,"images":{"img":"/img/products/men/product6a.jpeg","imgOnHover":"/img/products/men/product6b.jpeg"},"category":"Coats","name":"Double-lapel wool-blend overcoat","isNew":false,"pricing":{"price":"$225.00","discount":0,"discountedPrice":""},"sizes":["XS","S","M","L","XL","XXL"],"colors":["White","Black"],"variants":[{"variantId":26,"variantColor":"White","variantImage":"/img/products/men/product6a.jpeg","stock":[{"XS":2},{"S":4},{"M":0},{"L":5},{"XL":5},{"XXL":3}]},{"variantId":27,"variantColor":"Black","variantImage":"/img/products/men/product6a.jpeg","stock":[{"XS":5},{"S":1},{"M":3},{"L":2},{"XL":4},{"XXL":3}]}],"isWishlisted":false},{"id":15,"images":{"img":"/img/products/men/product7a.jpeg","imgOnHover":"/img/products/men/product7b.jpeg"},"category":"Sneakers","name":"Track panelled trainers","isNew":true,"pricing":{"price":"$351.00","discount":0,"discountedPrice":""},"sizes":["6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","13","14"],"colors":["White","Black"],"variants":[{"variantId":28,"variantColor":"White","variantImage":"/img/products/men/product7a.jpeg","stock":[{"6":2},{"6.5":1},{"7":4},{"7.5":5},{"8":2},{"8.5":5},{"9":5},{"9.5":1},{"10":0},{"10.5":5},{"11":4},{"11.5":2},{"12":2},{"13":5},{"14":2}]},{"variantId":29,"variantColor":"Black","variantImage":"/img/products/men/product7a.jpeg","stock":[{"6":4},{"6.5":2},{"7":0},{"7.5":2},{"8":4},{"8.5":4},{"9":0},{"9.5":0},{"10":4},{"10.5":4},{"11":4},{"11.5":5},{"12":4},{"13":3},{"14":1}]}],"isWishlisted":false},{"id":16,"images":{"img":"/img/products/men/product8a.jpeg","imgOnHover":"/img/products/men/product8b.jpeg"},"category":"Backpacks","name":"Anton Sling Anagram-jacquard canvas backpack","isNew":true,"pricing":{"price":"$190.00","discount":0,"discountedPrice":""},"sizes":["Free size"],"colors":["White","Black"],"variants":[{"variantId":30,"variantColor":"White","variantImage":"/img/products/men/product8a.jpeg","stock":[{"Free size":2}]},{"variantId":31,"variantColor":"Black","variantImage":"/img/products/men/product8a.jpeg","stock":[{"Free size":1}]}],"isWishlisted":false}]
+[
+  {
+    "id": 9,
+    "images": {
+      "img": "/img/products/men/product1a.jpeg",
+      "imgOnHover": "/img/products/men/product1b.jpeg"
+    },
+    "category": "Casual Shirts",
+    "name": "Plaid silk and cotton flannel shirt",
+    "isNew": false,
+    "pricing": {
+      "price": "$132.00",
+      "discount": 0,
+      "priceAfterDiscount": "$132.00"
+    },
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 16,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product1a.jpeg",
+        "stock": [
+          {
+            "XS": 4
+          },
+          {
+            "S": 2
+          },
+          {
+            "M": 4
+          },
+          {
+            "L": 0
+          },
+          {
+            "XL": 4
+          },
+          {
+            "XXL": 4
+          }
+        ]
+      },
+      {
+        "variantId": 17,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product1a.jpeg",
+        "stock": [
+          {
+            "XS": 1
+          },
+          {
+            "S": 2
+          },
+          {
+            "M": 1
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 4
+          },
+          {
+            "XXL": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "images": {
+      "img": "/img/products/men/product2a.jpeg",
+      "imgOnHover": "/img/products/men/product2b.jpeg"
+    },
+    "category": "Pants",
+    "name": "High-rise pleated wool trousers",
+    "isNew": false,
+    "pricing": {
+      "price": "$117.00",
+      "discount": 0.58,
+      "priceAfterDiscount": "$49.14"
+    },
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 18,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product2a.jpeg",
+        "stock": [
+          {
+            "XS": 2
+          },
+          {
+            "S": 4
+          },
+          {
+            "M": 3
+          },
+          {
+            "L": 3
+          },
+          {
+            "XL": 2
+          },
+          {
+            "XXL": 3
+          }
+        ]
+      },
+      {
+        "variantId": 19,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product2a.jpeg",
+        "stock": [
+          {
+            "XS": 3
+          },
+          {
+            "S": 1
+          },
+          {
+            "M": 2
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 2
+          },
+          {
+            "XXL": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "images": {
+      "img": "/img/products/men/product3a.jpeg",
+      "imgOnHover": "/img/products/men/product3b.jpeg"
+    },
+    "category": "Shoes",
+    "name": "Weejuns 90s Larson leather penny loafers",
+    "isNew": true,
+    "pricing": {
+      "price": "$333.00",
+      "discount": 0,
+      "priceAfterDiscount": "$333.00"
+    },
+    "sizes": [
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "10.5",
+      "11",
+      "11.5",
+      "12",
+      "13",
+      "14"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 20,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product3a.jpeg",
+        "stock": [
+          {
+            "6": 5
+          },
+          {
+            "6.5": 0
+          },
+          {
+            "7": 3
+          },
+          {
+            "7.5": 5
+          },
+          {
+            "8": 5
+          },
+          {
+            "8.5": 1
+          },
+          {
+            "9": 3
+          },
+          {
+            "9.5": 2
+          },
+          {
+            "10": 4
+          },
+          {
+            "10.5": 3
+          },
+          {
+            "11": 0
+          },
+          {
+            "11.5": 0
+          },
+          {
+            "12": 5
+          },
+          {
+            "13": 5
+          },
+          {
+            "14": 3
+          }
+        ]
+      },
+      {
+        "variantId": 21,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product3a.jpeg",
+        "stock": [
+          {
+            "6": 4
+          },
+          {
+            "6.5": 1
+          },
+          {
+            "7": 3
+          },
+          {
+            "7.5": 2
+          },
+          {
+            "8": 2
+          },
+          {
+            "8.5": 5
+          },
+          {
+            "9": 3
+          },
+          {
+            "9.5": 3
+          },
+          {
+            "10": 0
+          },
+          {
+            "10.5": 0
+          },
+          {
+            "11": 5
+          },
+          {
+            "11.5": 2
+          },
+          {
+            "12": 5
+          },
+          {
+            "13": 1
+          },
+          {
+            "14": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "images": {
+      "img": "/img/products/men/product4a.jpeg",
+      "imgOnHover": "/img/products/men/product4b.jpeg"
+    },
+    "category": "Sweats",
+    "name": "Logo-print jersey sweatshirt",
+    "isNew": false,
+    "pricing": {
+      "price": "$261.00",
+      "discount": 0,
+      "priceAfterDiscount": "$261.00"
+    },
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 22,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product4a.jpeg",
+        "stock": [
+          {
+            "XS": 4
+          },
+          {
+            "S": 2
+          },
+          {
+            "M": 0
+          },
+          {
+            "L": 1
+          },
+          {
+            "XL": 2
+          },
+          {
+            "XXL": 5
+          }
+        ]
+      },
+      {
+        "variantId": 23,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product4a.jpeg",
+        "stock": [
+          {
+            "XS": 2
+          },
+          {
+            "S": 1
+          },
+          {
+            "M": 2
+          },
+          {
+            "L": 3
+          },
+          {
+            "XL": 4
+          },
+          {
+            "XXL": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "images": {
+      "img": "/img/products/men/product5a.jpeg",
+      "imgOnHover": "/img/products/men/product5b.jpeg"
+    },
+    "category": "Bags",
+    "name": "Tablier leather cross-body bag",
+    "isNew": true,
+    "pricing": {
+      "price": "$82.00",
+      "discount": 0,
+      "priceAfterDiscount": "$82.00"
+    },
+    "sizes": [
+      "Free size"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 24,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product5a.jpeg",
+        "stock": [
+          {
+            "Free size": 0
+          }
+        ]
+      },
+      {
+        "variantId": 25,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product5a.jpeg",
+        "stock": [
+          {
+            "Free size": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "images": {
+      "img": "/img/products/men/product6a.jpeg",
+      "imgOnHover": "/img/products/men/product6b.jpeg"
+    },
+    "category": "Coats",
+    "name": "Double-lapel wool-blend overcoat",
+    "isNew": true,
+    "pricing": {
+      "price": "$289.00",
+      "discount": 0,
+      "priceAfterDiscount": "$289.00"
+    },
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 26,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product6a.jpeg",
+        "stock": [
+          {
+            "XS": 2
+          },
+          {
+            "S": 4
+          },
+          {
+            "M": 4
+          },
+          {
+            "L": 3
+          },
+          {
+            "XL": 5
+          },
+          {
+            "XXL": 1
+          }
+        ]
+      },
+      {
+        "variantId": 27,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product6a.jpeg",
+        "stock": [
+          {
+            "XS": 1
+          },
+          {
+            "S": 4
+          },
+          {
+            "M": 1
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 4
+          },
+          {
+            "XXL": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "images": {
+      "img": "/img/products/men/product7a.jpeg",
+      "imgOnHover": "/img/products/men/product7b.jpeg"
+    },
+    "category": "Sneakers",
+    "name": "Track panelled trainers",
+    "isNew": false,
+    "pricing": {
+      "price": "$50.00",
+      "discount": 0,
+      "priceAfterDiscount": "$50.00"
+    },
+    "sizes": [
+      "6",
+      "6.5",
+      "7",
+      "7.5",
+      "8",
+      "8.5",
+      "9",
+      "9.5",
+      "10",
+      "10.5",
+      "11",
+      "11.5",
+      "12",
+      "13",
+      "14"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 28,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product7a.jpeg",
+        "stock": [
+          {
+            "6": 5
+          },
+          {
+            "6.5": 1
+          },
+          {
+            "7": 4
+          },
+          {
+            "7.5": 2
+          },
+          {
+            "8": 4
+          },
+          {
+            "8.5": 0
+          },
+          {
+            "9": 1
+          },
+          {
+            "9.5": 1
+          },
+          {
+            "10": 0
+          },
+          {
+            "10.5": 0
+          },
+          {
+            "11": 1
+          },
+          {
+            "11.5": 4
+          },
+          {
+            "12": 2
+          },
+          {
+            "13": 3
+          },
+          {
+            "14": 0
+          }
+        ]
+      },
+      {
+        "variantId": 29,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product7a.jpeg",
+        "stock": [
+          {
+            "6": 5
+          },
+          {
+            "6.5": 1
+          },
+          {
+            "7": 4
+          },
+          {
+            "7.5": 5
+          },
+          {
+            "8": 5
+          },
+          {
+            "8.5": 4
+          },
+          {
+            "9": 5
+          },
+          {
+            "9.5": 0
+          },
+          {
+            "10": 1
+          },
+          {
+            "10.5": 2
+          },
+          {
+            "11": 2
+          },
+          {
+            "11.5": 4
+          },
+          {
+            "12": 2
+          },
+          {
+            "13": 0
+          },
+          {
+            "14": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "images": {
+      "img": "/img/products/men/product8a.jpeg",
+      "imgOnHover": "/img/products/men/product8b.jpeg"
+    },
+    "category": "Backpacks",
+    "name": "Anton Sling Anagram-jacquard canvas backpack",
+    "isNew": false,
+    "pricing": {
+      "price": "$470.00",
+      "discount": 0,
+      "priceAfterDiscount": "$470.00"
+    },
+    "sizes": [
+      "Free size"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "variants": [
+      {
+        "variantId": 30,
+        "variantColor": "White",
+        "variantImage": "/img/products/men/product8a.jpeg",
+        "stock": [
+          {
+            "Free size": 5
+          }
+        ]
+      },
+      {
+        "variantId": 31,
+        "variantColor": "Black",
+        "variantImage": "/img/products/men/product8a.jpeg",
+        "stock": [
+          {
+            "Free size": 4
+          }
+        ]
+      }
+    ]
+  }
+]

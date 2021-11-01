@@ -7,29 +7,12 @@
     },
     "category": "Shoes",
     "name": "Leather mid-heel Sandals",
-    "isNew": false,
+    "isNew": true,
     "pricing": {
-      "price": "$291.00",
-      "discount": 0.45,
-      "priceAfterDiscount": "$160.05"
+      "price": 40,
+      "discount": 0,
+      "priceAfterDiscount": 40
     },
-    "sizes": [
-      "6",
-      "6.5",
-      "7",
-      "7.5",
-      "8",
-      "8.5",
-      "9",
-      "9.5",
-      "10",
-      "10.5",
-      "11",
-      "11.5",
-      "12",
-      "13",
-      "14"
-    ],
     "colors": [
       "White",
       "Black"
@@ -41,49 +24,49 @@
         "variantImage": "/img/products/women/product1a.jpeg",
         "stock": [
           {
-            "6": 4
+            "6": 0
           },
           {
-            "6.5": 5
+            "6.5": 4
           },
           {
-            "7": 1
+            "7": 4
           },
           {
-            "7.5": 1
+            "7.5": 3
           },
           {
-            "8": 4
+            "8": 5
           },
           {
-            "8.5": 3
+            "8.5": 1
           },
           {
             "9": 1
           },
           {
-            "9.5": 0
+            "9.5": 5
           },
           {
-            "10": 0
+            "10": 3
           },
           {
-            "10.5": 1
+            "10.5": 3
           },
           {
-            "11": 0
+            "11": 5
           },
           {
-            "11.5": 5
+            "11.5": 3
           },
           {
-            "12": 4
+            "12": 0
           },
           {
-            "13": 3
+            "13": 5
           },
           {
-            "14": 1
+            "14": 2
           }
         ]
       },
@@ -93,49 +76,49 @@
         "variantImage": "/img/products/women/product1a.jpeg",
         "stock": [
           {
-            "6": 2
+            "6": 1
           },
           {
-            "6.5": 2
+            "6.5": 4
           },
           {
-            "7": 1
+            "7": 2
           },
           {
-            "7.5": 0
+            "7.5": 1
           },
           {
-            "8": 1
+            "8": 5
           },
           {
-            "8.5": 1
+            "8.5": 5
           },
           {
-            "9": 3
+            "9": 5
           },
           {
-            "9.5": 4
+            "9.5": 3
           },
           {
-            "10": 4
+            "10": 0
           },
           {
             "10.5": 0
           },
           {
-            "11": 4
+            "11": 1
           },
           {
-            "11.5": 5
+            "11.5": 3
           },
           {
-            "12": 5
+            "12": 2
           },
           {
-            "13": 2
+            "13": 0
           },
           {
-            "14": 1
+            "14": 2
           }
         ]
       }
@@ -151,18 +134,10 @@
     "name": "Nobody's Child mini shift dress",
     "isNew": false,
     "pricing": {
-      "price": "$438.00",
+      "price": 144,
       "discount": 0,
-      "priceAfterDiscount": "$438.00"
+      "priceAfterDiscount": 144
     },
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
     "colors": [
       "White",
       "Black"
@@ -174,19 +149,19 @@
         "variantImage": "/img/products/women/product2a.jpeg",
         "stock": [
           {
-            "XS": 3
+            "XS": 1
           },
           {
-            "S": 0
+            "S": 3
           },
           {
-            "M": 5
+            "M": 4
           },
           {
-            "L": 1
+            "L": 2
           },
           {
-            "XL": 2
+            "XL": 5
           },
           {
             "XXL": 1
@@ -199,13 +174,13 @@
         "variantImage": "/img/products/women/product2a.jpeg",
         "stock": [
           {
-            "XS": 5
+            "XS": 3
           },
           {
-            "S": 4
+            "S": 3
           },
           {
-            "M": 4
+            "M": 3
           },
           {
             "L": 4
@@ -214,7 +189,7 @@
             "XL": 4
           },
           {
-            "XXL": 5
+            "XXL": 4
           }
         ]
       }
@@ -230,27 +205,10 @@
     "name": "Leather Sneakers",
     "isNew": false,
     "pricing": {
-      "price": "$110.00",
-      "discount": 0.33,
-      "priceAfterDiscount": "$73.70"
+      "price": 235,
+      "discount": 0.19,
+      "priceAfterDiscount": 190.35000000000002
     },
-    "sizes": [
-      "6",
-      "6.5",
-      "7",
-      "7.5",
-      "8",
-      "8.5",
-      "9",
-      "9.5",
-      "10",
-      "10.5",
-      "11",
-      "11.5",
-      "12",
-      "13",
-      "14"
-    ],
     "colors": [
       "White",
       "Black"
@@ -262,65 +220,13 @@
         "variantImage": "/img/products/women/product3a.jpeg",
         "stock": [
           {
-            "6": 3
+            "6": 5
           },
           {
-            "6.5": 0
+            "6.5": 1
           },
           {
-            "7": 3
-          },
-          {
-            "7.5": 2
-          },
-          {
-            "8": 5
-          },
-          {
-            "8.5": 5
-          },
-          {
-            "9": 0
-          },
-          {
-            "9.5": 1
-          },
-          {
-            "10": 0
-          },
-          {
-            "10.5": 3
-          },
-          {
-            "11": 5
-          },
-          {
-            "11.5": 5
-          },
-          {
-            "12": 2
-          },
-          {
-            "13": 3
-          },
-          {
-            "14": 1
-          }
-        ]
-      },
-      {
-        "variantId": 5,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product3a.jpeg",
-        "stock": [
-          {
-            "6": 4
-          },
-          {
-            "6.5": 2
-          },
-          {
-            "7": 4
+            "7": 0
           },
           {
             "7.5": 3
@@ -332,31 +238,83 @@
             "8.5": 4
           },
           {
-            "9": 3
+            "9": 1
+          },
+          {
+            "9.5": 1
+          },
+          {
+            "10": 4
+          },
+          {
+            "10.5": 3
+          },
+          {
+            "11": 1
+          },
+          {
+            "11.5": 3
+          },
+          {
+            "12": 4
+          },
+          {
+            "13": 0
+          },
+          {
+            "14": 4
+          }
+        ]
+      },
+      {
+        "variantId": 5,
+        "variantColor": "Black",
+        "variantImage": "/img/products/women/product3a.jpeg",
+        "stock": [
+          {
+            "6": 3
+          },
+          {
+            "6.5": 5
+          },
+          {
+            "7": 3
+          },
+          {
+            "7.5": 3
+          },
+          {
+            "8": 3
+          },
+          {
+            "8.5": 5
+          },
+          {
+            "9": 2
           },
           {
             "9.5": 0
           },
           {
-            "10": 0
+            "10": 4
           },
           {
-            "10.5": 4
+            "10.5": 3
           },
           {
-            "11": 4
+            "11": 0
           },
           {
-            "11.5": 2
+            "11.5": 1
           },
           {
-            "12": 2
+            "12": 1
           },
           {
-            "13": 4
+            "13": 5
           },
           {
-            "14": 3
+            "14": 1
           }
         ]
       }
@@ -372,18 +330,10 @@
     "name": "Baby Angel oversized full-zip sweatshirt with hood",
     "isNew": false,
     "pricing": {
-      "price": "$247.00",
-      "discount": 0.4,
-      "priceAfterDiscount": "$148.20"
+      "price": 253,
+      "discount": 0.31,
+      "priceAfterDiscount": 174.57
     },
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
     "colors": [
       "White",
       "Black"
@@ -395,22 +345,22 @@
         "variantImage": "/img/products/women/product4a.jpeg",
         "stock": [
           {
-            "XS": 2
+            "XS": 4
           },
           {
             "S": 2
           },
           {
-            "M": 0
+            "M": 4
           },
           {
             "L": 2
           },
           {
-            "XL": 5
+            "XL": 4
           },
           {
-            "XXL": 1
+            "XXL": 4
           }
         ]
       },
@@ -420,22 +370,22 @@
         "variantImage": "/img/products/women/product4a.jpeg",
         "stock": [
           {
-            "XS": 0
+            "XS": 5
           },
           {
-            "S": 0
+            "S": 4
           },
           {
-            "M": 4
+            "M": 5
           },
           {
-            "L": 0
+            "L": 5
           },
           {
-            "XL": 1
+            "XL": 5
           },
           {
-            "XXL": 0
+            "XXL": 2
           }
         ]
       }
@@ -451,18 +401,10 @@
     "name": "Pinafore with lurex and squared neckline",
     "isNew": true,
     "pricing": {
-      "price": "$268.00",
+      "price": 41,
       "discount": 0,
-      "priceAfterDiscount": "$268.00"
+      "priceAfterDiscount": 41
     },
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
     "colors": [
       "White",
       "Black"
@@ -474,22 +416,22 @@
         "variantImage": "/img/products/women/product5a.jpeg",
         "stock": [
           {
-            "XS": 1
+            "XS": 3
           },
           {
-            "S": 2
+            "S": 3
           },
           {
-            "M": 1
+            "M": 0
           },
           {
-            "L": 1
+            "L": 5
           },
           {
-            "XL": 2
+            "XL": 5
           },
           {
-            "XXL": 2
+            "XXL": 0
           }
         ]
       },
@@ -499,22 +441,22 @@
         "variantImage": "/img/products/women/product5a.jpeg",
         "stock": [
           {
-            "XS": 0
+            "XS": 4
           },
           {
-            "S": 4
+            "S": 3
           },
           {
             "M": 2
           },
           {
-            "L": 3
+            "L": 4
           },
           {
-            "XL": 4
+            "XL": 5
           },
           {
-            "XXL": 1
+            "XXL": 4
           }
         ]
       }
@@ -528,15 +470,12 @@
     },
     "category": "Bags",
     "name": "Shoulder bag with zip and tassels",
-    "isNew": true,
+    "isNew": false,
     "pricing": {
-      "price": "$116.00",
-      "discount": 0,
-      "priceAfterDiscount": "$116.00"
+      "price": 229,
+      "discount": 0.19,
+      "priceAfterDiscount": 185.49
     },
-    "sizes": [
-      "Free size"
-    ],
     "colors": [
       "White",
       "Black"
@@ -548,7 +487,7 @@
         "variantImage": "/img/products/women/product6a.jpeg",
         "stock": [
           {
-            "Free size": 0
+            "Free size": 5
           }
         ]
       },
@@ -558,7 +497,7 @@
         "variantImage": "/img/products/women/product6a.jpeg",
         "stock": [
           {
-            "Free size": 4
+            "Free size": 3
           }
         ]
       }
@@ -574,18 +513,10 @@
     "name": "Printed A - line Skirt",
     "isNew": false,
     "pricing": {
-      "price": "$35.00",
-      "discount": 0,
-      "priceAfterDiscount": "$35.00"
+      "price": 427,
+      "discount": 0.18,
+      "priceAfterDiscount": 350.14000000000004
     },
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
     "colors": [
       "White",
       "Black"
@@ -597,19 +528,19 @@
         "variantImage": "/img/products/women/product7a.jpeg",
         "stock": [
           {
-            "XS": 3
+            "XS": 5
           },
           {
             "S": 3
           },
           {
-            "M": 1
+            "M": 4
           },
           {
-            "L": 0
+            "L": 3
           },
           {
-            "XL": 1
+            "XL": 0
           },
           {
             "XXL": 4
@@ -625,19 +556,19 @@
             "XS": 5
           },
           {
-            "S": 1
+            "S": 0
           },
           {
-            "M": 2
+            "M": 3
           },
           {
-            "L": 5
+            "L": 4
           },
           {
-            "XL": 4
+            "XL": 2
           },
           {
-            "XXL": 1
+            "XXL": 3
           }
         ]
       }
@@ -649,22 +580,14 @@
       "img": "/img/products/women/product8a.jpeg",
       "imgOnHover": "/img/products/women/product8b.jpeg"
     },
-    "category": "Skirts",
+    "category": "Shoes",
     "name": "Heel strappy Sandals",
-    "isNew": true,
+    "isNew": false,
     "pricing": {
-      "price": "$450.00",
-      "discount": 0,
-      "priceAfterDiscount": "$450.00"
+      "price": 31,
+      "discount": 0.2,
+      "priceAfterDiscount": 24.8
     },
-    "sizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
     "colors": [
       "White",
       "Black"
@@ -676,22 +599,49 @@
         "variantImage": "/img/products/women/product8a.jpeg",
         "stock": [
           {
-            "XS": 5
+            "6": 5
           },
           {
-            "S": 3
+            "6.5": 0
           },
           {
-            "M": 0
+            "7": 1
           },
           {
-            "L": 2
+            "7.5": 3
           },
           {
-            "XL": 4
+            "8": 4
           },
           {
-            "XXL": 4
+            "8.5": 2
+          },
+          {
+            "9": 1
+          },
+          {
+            "9.5": 1
+          },
+          {
+            "10": 4
+          },
+          {
+            "10.5": 3
+          },
+          {
+            "11": 4
+          },
+          {
+            "11.5": 3
+          },
+          {
+            "12": 5
+          },
+          {
+            "13": 5
+          },
+          {
+            "14": 1
           }
         ]
       },
@@ -701,22 +651,49 @@
         "variantImage": "/img/products/women/product8a.jpeg",
         "stock": [
           {
-            "XS": 4
+            "6": 3
           },
           {
-            "S": 1
+            "6.5": 1
           },
           {
-            "M": 3
+            "7": 1
           },
           {
-            "L": 3
+            "7.5": 5
           },
           {
-            "XL": 0
+            "8": 5
           },
           {
-            "XXL": 3
+            "8.5": 1
+          },
+          {
+            "9": 1
+          },
+          {
+            "9.5": 3
+          },
+          {
+            "10": 1
+          },
+          {
+            "10.5": 0
+          },
+          {
+            "11": 0
+          },
+          {
+            "11.5": 5
+          },
+          {
+            "12": 0
+          },
+          {
+            "13": 0
+          },
+          {
+            "14": 4
           }
         ]
       }

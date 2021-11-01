@@ -36,9 +36,8 @@ function getProductStatus() {
   productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
 
   // Price
-  productStatus.price = (random(30, 500)).toFixed(2);
-  productStatus.priceAfterDiscount = isDiscounted ? '$' + ((productStatus.price * (1 - productStatus.discountVal)).toFixed(2)) : '';
-  productStatus.priceAfterDiscount = '$' + (productStatus.price * (1 - productStatus.discountVal)).toFixed(2);
+  productStatus.price = (random(30, 500));
+  productStatus.priceAfterDiscount = productStatus.price * (1 - productStatus.discountVal);
 }
 
 /* Sizes */
@@ -113,11 +112,11 @@ function createData(group) {
       "name": productInfo[group]['productName'][i],
       "isNew": productStatus.isNew,
       "pricing": {
-        "price": '$' + productStatus.price,
+        "price": productStatus.price,
         "discount": productStatus.discountVal,
         "priceAfterDiscount": productStatus.priceAfterDiscount,
       },
-      "sizes": sizes,
+      // "sizes": sizes,
       "colors": ['White', 'Black'],
       "variants": variants,
     })

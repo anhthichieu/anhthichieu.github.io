@@ -1,9 +1,7 @@
 const { random, round } = require('lodash')
 const fs = require('fs');
-const productInfo = require('./productInfo');
 const newProductInfo = require('./newProductInfo');
 
-const arrayLength = 8;
 let controlProductId = 0;
 let controlVariantId = 0;
 const categoryKeys = ['women', 'men', 'kids'];
@@ -45,19 +43,18 @@ function getSizes(category) {
   switch (category) {
     case 'Shoes':
     case 'Sneakers':
+    case 'Sandals':
       return ['6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '10.5', '11', '11.5', '12', '13', '14'];
     case 'Dresses':
     case 'Sweats':
     case 'Skirts':
-    case 'Casual Shirts':
-    case 'Pants':
+    case 'Shirts':
     case 'Pants':
     case 'Coats':
     case 'Jackets':
     case 'T-Shirts':
+    case 'Shorts':
       return ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
-    case 'Bags':
-    case 'Backpacks':
     case 'Headbands':
     case 'Hats':
       return ['Free size']
@@ -96,33 +93,6 @@ function createData(group) {
   let sizes = []
   let variants = [];
   let colors = [];
-
-  // for (let i = 0; i < arrayLength; i++) {
-  //   getProductStatus();
-  //   controlProductId++;
-  //   category = productInfo[group]['categories'][i];
-  //   sizes = getSizes(category);
-  //   variants = getVariants(colors, sizes, i, group);
-
-  //   products.push({
-  //     "id": controlProductId,
-  //     "images": {
-  //       "img": getImgUrl(i, group),
-  //       "imgOnHover": getImgOnHoverUrl(i, group),
-  //     },
-  //     "category": category,
-  //     "name": productInfo[group]['productName'][i],
-  //     "isNew": productStatus.isNew,
-  //     "pricing": {
-  //       "price": productStatus.price,
-  //       "discount": productStatus.discountVal,
-  //       "priceAfterDiscount": productStatus.priceAfterDiscount,
-  //     },
-  //     // "sizes": sizes,
-  //     "colors": ['White', 'Black'],
-  //     "variants": variants,
-  //   })
-  // }
 
   for (let [i, product] of newProductInfo[group].entries()) {
     getProductStatus();

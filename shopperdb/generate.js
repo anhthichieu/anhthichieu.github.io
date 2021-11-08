@@ -81,6 +81,7 @@ function getVariants(colorList, sizeList, productIndex, group) {
       variantId: controlVariantId++,
       variantColor: color,
       variantImage: getImgUrl(productIndex, colorIndex, group),
+      variantImageOnHover: getImgOnHoverUrl(productIndex, colorIndex, group),
       stock: getStock(sizeList)
     })
     return variantArray;

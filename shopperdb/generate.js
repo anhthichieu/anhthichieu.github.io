@@ -15,6 +15,14 @@ function getImgOnHoverUrl(productIndex, colorIndex, group) {
   return `/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-2.jpeg`
 }
 
+function getImages(productIndex, colorIndex, group) {
+  let array = [];
+  for (let i = 1; i <= 4; i++) {
+    array.push(`/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-${i}.jpeg`)
+  }
+  return array;
+}
+
 /* Get product status (new or sale) */
 let productStatus = {
   isNew: undefined,
@@ -82,6 +90,7 @@ function getVariants(colorList, sizeList, productIndex, group) {
       variantColor: color,
       variantImage: getImgUrl(productIndex, colorIndex, group),
       variantImageOnHover: getImgOnHoverUrl(productIndex, colorIndex, group),
+      variantImages: getImages(productIndex, colorIndex, group),
       stock: getStock(sizeList)
     })
     return variantArray;

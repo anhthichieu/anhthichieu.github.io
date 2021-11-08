@@ -1,20 +1,20 @@
 const { random, round } = require('lodash')
 const fs = require('fs');
 const productInfo = require('./productInfo');
+const newProductInfo = require('./newProductInfo');
 
 const arrayLength = 8;
 let controlProductId = 0;
 let controlVariantId = 0;
 const categoryKeys = ['women', 'men', 'kids'];
-const colors = ['White', 'Black'] // update later
 
 /* Get image URLs */
-function getImgUrl(index, group) {
-  return `/img/products/${group}/product${index + 1}a.jpeg`
+function getImgUrl(productIndex, colorIndex, group) {
+  return `/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-1.jpeg`
 }
 
-function getImgOnHoverUrl(index, group) {
-  return `/img/products/${group}/product${index + 1}b.jpeg`
+function getImgOnHoverUrl(productIndex, colorIndex, group) {
+  return `/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-2.jpeg`
 }
 
 /* Get product status (new or sale) */
@@ -65,6 +65,7 @@ function getSizes(category) {
       return ['One size']
   }
 }
+
 /* Stock */
 function getStock(sizeList) {
   return sizeList.reduce((stockArray, size) => {
@@ -77,12 +78,12 @@ function getStock(sizeList) {
 
 
 /* Variants */
-function getVariants(colorList, sizeList, index, group) {
-  return colorList.reduce((variantArray, color) => {
+function getVariants(colorList, sizeList, productIndex, group) {
+  return colorList.reduce((variantArray, color, colorIndex) => {
     variantArray.push({
       variantId: controlVariantId++,
       variantColor: color,
-      variantImage: getImgUrl(index, group),
+      variantImage: getImgUrl(productIndex, colorIndex, group),
       stock: getStock(sizeList)
     })
     return variantArray;
@@ -94,30 +95,57 @@ function createData(group) {
   let category = ''
   let sizes = []
   let variants = [];
+  let colors = [];
 
-  for (let i = 0; i < arrayLength; i++) {
+  // for (let i = 0; i < arrayLength; i++) {
+  //   getProductStatus();
+  //   controlProductId++;
+  //   category = productInfo[group]['categories'][i];
+  //   sizes = getSizes(category);
+  //   variants = getVariants(colors, sizes, i, group);
+
+  //   products.push({
+  //     "id": controlProductId,
+  //     "images": {
+  //       "img": getImgUrl(i, group),
+  //       "imgOnHover": getImgOnHoverUrl(i, group),
+  //     },
+  //     "category": category,
+  //     "name": productInfo[group]['productName'][i],
+  //     "isNew": productStatus.isNew,
+  //     "pricing": {
+  //       "price": productStatus.price,
+  //       "discount": productStatus.discountVal,
+  //       "priceAfterDiscount": productStatus.priceAfterDiscount,
+  //     },
+  //     // "sizes": sizes,
+  //     "colors": ['White', 'Black'],
+  //     "variants": variants,
+  //   })
+  // }
+
+  for (let [i, product] of newProductInfo[group].entries()) {
     getProductStatus();
     controlProductId++;
-    category = productInfo[group]['categories'][i];
+    category = product.category;
     sizes = getSizes(category);
+    colors = product.colors;
     variants = getVariants(colors, sizes, i, group);
 
     products.push({
       "id": controlProductId,
       "images": {
-        "img": getImgUrl(i, group),
-        "imgOnHover": getImgOnHoverUrl(i, group),
+        "img": getImgUrl(i, 0, group),
+        "imgOnHover": getImgOnHoverUrl(i, 0, group),
       },
       "category": category,
-      "name": productInfo[group]['productName'][i],
+      name: product.productName,
       "isNew": productStatus.isNew,
       "pricing": {
         "price": productStatus.price,
         "discount": productStatus.discountVal,
         "priceAfterDiscount": productStatus.priceAfterDiscount,
       },
-      // "sizes": sizes,
-      "colors": ['White', 'Black'],
       "variants": variants,
     })
   }

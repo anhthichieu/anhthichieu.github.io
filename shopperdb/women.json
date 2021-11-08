@@ -2,68 +2,64 @@
   {
     "id": 1,
     "images": {
-      "img": "/img/products/women/product1a.jpeg",
-      "imgOnHover": "/img/products/women/product1b.jpeg"
+      "img": "/img/products/women/product1-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product1-color2-2.jpeg"
     },
     "category": "Shoes",
-    "name": "Leather mid-heel Sandals",
+    "name": "Harper Ankle Strap Heels",
     "isNew": true,
     "pricing": {
-      "price": 40,
+      "price": 416,
       "discount": 0,
-      "priceAfterDiscount": 40
+      "priceAfterDiscount": 416
     },
-    "colors": [
-      "White",
-      "Black"
-    ],
     "variants": [
       {
         "variantId": 0,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product1a.jpeg",
+        "variantColor": "Almond",
+        "variantImage": "/img/products/women/product1-color1-1.jpeg",
         "stock": [
           {
-            "6": 0
+            "6": 1
           },
           {
-            "6.5": 4
+            "6.5": 1
           },
           {
-            "7": 4
+            "7": 2
           },
           {
-            "7.5": 3
+            "7.5": 2
           },
           {
-            "8": 5
+            "8": 0
           },
           {
             "8.5": 1
           },
           {
-            "9": 1
+            "9": 3
           },
           {
-            "9.5": 5
+            "9.5": 3
           },
           {
-            "10": 3
+            "10": 2
           },
           {
-            "10.5": 3
+            "10.5": 2
           },
           {
-            "11": 5
+            "11": 0
           },
           {
-            "11.5": 3
+            "11.5": 5
           },
           {
-            "12": 0
+            "12": 3
           },
           {
-            "13": 5
+            "13": 2
           },
           {
             "14": 2
@@ -72,53 +68,105 @@
       },
       {
         "variantId": 1,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product1a.jpeg",
+        "variantColor": "Blue",
+        "variantImage": "/img/products/women/product1-color2-1.jpeg",
         "stock": [
           {
-            "6": 1
+            "6": 2
           },
           {
-            "6.5": 4
+            "6.5": 3
           },
           {
-            "7": 2
+            "7": 5
           },
           {
             "7.5": 1
           },
           {
-            "8": 5
+            "8": 1
           },
           {
-            "8.5": 5
+            "8.5": 3
           },
           {
-            "9": 5
+            "9": 3
           },
           {
-            "9.5": 3
+            "9.5": 1
           },
           {
-            "10": 0
+            "10": 5
           },
           {
-            "10.5": 0
+            "10.5": 3
           },
           {
-            "11": 1
+            "11": 2
           },
           {
-            "11.5": 3
+            "11.5": 5
+          },
+          {
+            "12": 3
+          },
+          {
+            "13": 4
+          },
+          {
+            "14": 4
+          }
+        ]
+      },
+      {
+        "variantId": 2,
+        "variantColor": "Rusty Rose",
+        "variantImage": "/img/products/women/product1-color3-1.jpeg",
+        "stock": [
+          {
+            "6": 4
+          },
+          {
+            "6.5": 3
+          },
+          {
+            "7": 4
+          },
+          {
+            "7.5": 3
+          },
+          {
+            "8": 1
+          },
+          {
+            "8.5": 1
+          },
+          {
+            "9": 1
+          },
+          {
+            "9.5": 1
+          },
+          {
+            "10": 5
+          },
+          {
+            "10.5": 4
+          },
+          {
+            "11": 2
+          },
+          {
+            "11.5": 1
           },
           {
             "12": 2
           },
           {
-            "13": 0
+            "13": 3
           },
           {
-            "14": 2
+            "14": 1
           }
         ]
       }
@@ -127,69 +175,65 @@
   {
     "id": 2,
     "images": {
-      "img": "/img/products/women/product2a.jpeg",
-      "imgOnHover": "/img/products/women/product2b.jpeg"
+      "img": "/img/products/women/product2-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product2-color2-2.jpeg"
     },
     "category": "Dresses",
-    "name": "Nobody's Child mini shift dress",
+    "name": "In the Meadows Crochet Lace Babydoll Dress",
     "isNew": false,
     "pricing": {
-      "price": 144,
+      "price": 110,
       "discount": 0,
-      "priceAfterDiscount": 144
+      "priceAfterDiscount": 110
     },
-    "colors": [
-      "White",
-      "Black"
-    ],
     "variants": [
       {
-        "variantId": 2,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product2a.jpeg",
+        "variantId": 3,
+        "variantColor": "Mustard Yellow",
+        "variantImage": "/img/products/women/product2-color1-1.jpeg",
         "stock": [
           {
             "XS": 1
           },
           {
-            "S": 3
+            "S": 1
           },
           {
-            "M": 4
+            "M": 5
           },
           {
-            "L": 2
+            "L": 0
           },
           {
-            "XL": 5
+            "XL": 0
           },
           {
-            "XXL": 1
+            "XXL": 5
           }
         ]
       },
       {
-        "variantId": 3,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product2a.jpeg",
+        "variantId": 4,
+        "variantColor": "White",
+        "variantImage": "/img/products/women/product2-color2-1.jpeg",
         "stock": [
           {
-            "XS": 3
+            "XS": 0
           },
           {
-            "S": 3
+            "S": 0
           },
           {
             "M": 3
           },
           {
-            "L": 4
+            "L": 1
           },
           {
-            "XL": 4
+            "XL": 3
           },
           {
-            "XXL": 4
+            "XXL": 1
           }
         ]
       }
@@ -198,26 +242,22 @@
   {
     "id": 3,
     "images": {
-      "img": "/img/products/women/product3a.jpeg",
-      "imgOnHover": "/img/products/women/product3b.jpeg"
+      "img": "/img/products/women/product3-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product3-color2-2.jpeg"
     },
-    "category": "Shoes",
-    "name": "Leather Sneakers",
-    "isNew": false,
+    "category": "Sneakers",
+    "name": "Fayth  Chunky Sneakers",
+    "isNew": true,
     "pricing": {
-      "price": 235,
-      "discount": 0.19,
-      "priceAfterDiscount": 190.35000000000002
+      "price": 489,
+      "discount": 0,
+      "priceAfterDiscount": 489
     },
-    "colors": [
-      "White",
-      "Black"
-    ],
     "variants": [
       {
-        "variantId": 4,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product3a.jpeg",
+        "variantId": 5,
+        "variantColor": "White and Green",
+        "variantImage": "/img/products/women/product3-color1-1.jpeg",
         "stock": [
           {
             "6": 5
@@ -229,74 +269,339 @@
             "7": 0
           },
           {
+            "7.5": 0
+          },
+          {
+            "8": 0
+          },
+          {
+            "8.5": 0
+          },
+          {
+            "9": 1
+          },
+          {
+            "9.5": 0
+          },
+          {
+            "10": 1
+          },
+          {
+            "10.5": 0
+          },
+          {
+            "11": 5
+          },
+          {
+            "11.5": 4
+          },
+          {
+            "12": 0
+          },
+          {
+            "13": 2
+          },
+          {
+            "14": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "images": {
+      "img": "/img/products/women/product4-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product4-color2-2.jpeg"
+    },
+    "category": "Sweats",
+    "name": "Twist Connection Washed Burgundy Backless Cropped Sweater Top",
+    "isNew": true,
+    "pricing": {
+      "price": 192,
+      "discount": 0,
+      "priceAfterDiscount": 192
+    },
+    "variants": [
+      {
+        "variantId": 6,
+        "variantColor": "Washed Burgundy",
+        "variantImage": "/img/products/women/product4-color1-1.jpeg",
+        "stock": [
+          {
+            "XS": 4
+          },
+          {
+            "S": 4
+          },
+          {
+            "M": 2
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 3
+          },
+          {
+            "XXL": 5
+          }
+        ]
+      },
+      {
+        "variantId": 7,
+        "variantColor": "Washed Black",
+        "variantImage": "/img/products/women/product4-color2-1.jpeg",
+        "stock": [
+          {
+            "XS": 5
+          },
+          {
+            "S": 1
+          },
+          {
+            "M": 1
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 0
+          },
+          {
+            "XXL": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "images": {
+      "img": "/img/products/women/product5-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product5-color2-2.jpeg"
+    },
+    "category": "Dresses",
+    "name": "Loving is Easy Jacquard Pleated Skater Dress",
+    "isNew": true,
+    "pricing": {
+      "price": 291,
+      "discount": 0,
+      "priceAfterDiscount": 291
+    },
+    "variants": [
+      {
+        "variantId": 8,
+        "variantColor": "Emerald Green",
+        "variantImage": "/img/products/women/product5-color1-1.jpeg",
+        "stock": [
+          {
+            "XS": 0
+          },
+          {
+            "S": 0
+          },
+          {
+            "M": 2
+          },
+          {
+            "L": 0
+          },
+          {
+            "XL": 5
+          },
+          {
+            "XXL": 4
+          }
+        ]
+      },
+      {
+        "variantId": 9,
+        "variantColor": "Bright Yellow",
+        "variantImage": "/img/products/women/product5-color2-1.jpeg",
+        "stock": [
+          {
+            "XS": 5
+          },
+          {
+            "S": 0
+          },
+          {
+            "M": 3
+          },
+          {
+            "L": 4
+          },
+          {
+            "XL": 3
+          },
+          {
+            "XXL": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "images": {
+      "img": "/img/products/women/product6-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product6-color2-2.jpeg"
+    },
+    "category": "Bags",
+    "name": "Sidewalk Stunner Vegan Leather Backpack",
+    "isNew": true,
+    "pricing": {
+      "price": 49,
+      "discount": 0,
+      "priceAfterDiscount": 49
+    },
+    "variants": [
+      {
+        "variantId": 10,
+        "variantColor": "Taupe",
+        "variantImage": "/img/products/women/product6-color1-1.jpeg",
+        "stock": [
+          {
+            "Free size": 5
+          }
+        ]
+      },
+      {
+        "variantId": 11,
+        "variantColor": "Brown",
+        "variantImage": "/img/products/women/product6-color2-1.jpeg",
+        "stock": [
+          {
+            "Free size": 3
+          }
+        ]
+      },
+      {
+        "variantId": 12,
+        "variantColor": "Grey",
+        "variantImage": "/img/products/women/product6-color3-1.jpeg",
+        "stock": [
+          {
+            "Free size": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "images": {
+      "img": "/img/products/women/product7-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product7-color2-2.jpeg"
+    },
+    "category": "Skirts",
+    "name": "Ambrosio High-Low Maxi Skirt",
+    "isNew": false,
+    "pricing": {
+      "price": 229,
+      "discount": 0,
+      "priceAfterDiscount": 229
+    },
+    "variants": [
+      {
+        "variantId": 13,
+        "variantColor": "Dark Sage Green",
+        "variantImage": "/img/products/women/product7-color1-1.jpeg",
+        "stock": [
+          {
+            "XS": 4
+          },
+          {
+            "S": 0
+          },
+          {
+            "M": 0
+          },
+          {
+            "L": 0
+          },
+          {
+            "XL": 1
+          },
+          {
+            "XXL": 5
+          }
+        ]
+      },
+      {
+        "variantId": 14,
+        "variantColor": "Light Orange",
+        "variantImage": "/img/products/women/product7-color2-1.jpeg",
+        "stock": [
+          {
+            "XS": 2
+          },
+          {
+            "S": 1
+          },
+          {
+            "M": 4
+          },
+          {
+            "L": 5
+          },
+          {
+            "XL": 4
+          },
+          {
+            "XXL": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "images": {
+      "img": "/img/products/women/product8-color2-1.jpeg",
+      "imgOnHover": "/img/products/women/product8-color2-2.jpeg"
+    },
+    "category": "Shoes",
+    "name": "Shasta Suede Ankle Booties",
+    "isNew": true,
+    "pricing": {
+      "price": 67,
+      "discount": 0,
+      "priceAfterDiscount": 67
+    },
+    "variants": [
+      {
+        "variantId": 15,
+        "variantColor": "Taupe",
+        "variantImage": "/img/products/women/product8-color1-1.jpeg",
+        "stock": [
+          {
+            "6": 2
+          },
+          {
+            "6.5": 4
+          },
+          {
+            "7": 2
+          },
+          {
             "7.5": 3
           },
           {
             "8": 4
           },
           {
-            "8.5": 4
-          },
-          {
-            "9": 1
-          },
-          {
-            "9.5": 1
-          },
-          {
-            "10": 4
-          },
-          {
-            "10.5": 3
-          },
-          {
-            "11": 1
-          },
-          {
-            "11.5": 3
-          },
-          {
-            "12": 4
-          },
-          {
-            "13": 0
-          },
-          {
-            "14": 4
-          }
-        ]
-      },
-      {
-        "variantId": 5,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product3a.jpeg",
-        "stock": [
-          {
-            "6": 3
-          },
-          {
-            "6.5": 5
-          },
-          {
-            "7": 3
-          },
-          {
-            "7.5": 3
-          },
-          {
-            "8": 3
-          },
-          {
             "8.5": 5
           },
           {
-            "9": 2
+            "9": 0
           },
           {
-            "9.5": 0
+            "9.5": 3
           },
           {
-            "10": 4
+            "10": 2
           },
           {
             "10.5": 3
@@ -314,386 +619,59 @@
             "13": 5
           },
           {
-            "14": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "images": {
-      "img": "/img/products/women/product4a.jpeg",
-      "imgOnHover": "/img/products/women/product4b.jpeg"
-    },
-    "category": "Sweats",
-    "name": "Baby Angel oversized full-zip sweatshirt with hood",
-    "isNew": false,
-    "pricing": {
-      "price": 253,
-      "discount": 0.31,
-      "priceAfterDiscount": 174.57
-    },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "variants": [
-      {
-        "variantId": 6,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product4a.jpeg",
-        "stock": [
-          {
-            "XS": 4
-          },
-          {
-            "S": 2
-          },
-          {
-            "M": 4
-          },
-          {
-            "L": 2
-          },
-          {
-            "XL": 4
-          },
-          {
-            "XXL": 4
+            "14": 2
           }
         ]
       },
       {
-        "variantId": 7,
+        "variantId": 16,
         "variantColor": "Black",
-        "variantImage": "/img/products/women/product4a.jpeg",
+        "variantImage": "/img/products/women/product8-color2-1.jpeg",
         "stock": [
           {
-            "XS": 5
+            "6": 1
           },
           {
-            "S": 4
+            "6.5": 5
           },
           {
-            "M": 5
-          },
-          {
-            "L": 5
-          },
-          {
-            "XL": 5
-          },
-          {
-            "XXL": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "images": {
-      "img": "/img/products/women/product5a.jpeg",
-      "imgOnHover": "/img/products/women/product5b.jpeg"
-    },
-    "category": "Dresses",
-    "name": "Pinafore with lurex and squared neckline",
-    "isNew": true,
-    "pricing": {
-      "price": 41,
-      "discount": 0,
-      "priceAfterDiscount": 41
-    },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "variants": [
-      {
-        "variantId": 8,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product5a.jpeg",
-        "stock": [
-          {
-            "XS": 3
-          },
-          {
-            "S": 3
-          },
-          {
-            "M": 0
-          },
-          {
-            "L": 5
-          },
-          {
-            "XL": 5
-          },
-          {
-            "XXL": 0
-          }
-        ]
-      },
-      {
-        "variantId": 9,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product5a.jpeg",
-        "stock": [
-          {
-            "XS": 4
-          },
-          {
-            "S": 3
-          },
-          {
-            "M": 2
-          },
-          {
-            "L": 4
-          },
-          {
-            "XL": 5
-          },
-          {
-            "XXL": 4
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "images": {
-      "img": "/img/products/women/product6a.jpeg",
-      "imgOnHover": "/img/products/women/product6b.jpeg"
-    },
-    "category": "Bags",
-    "name": "Shoulder bag with zip and tassels",
-    "isNew": false,
-    "pricing": {
-      "price": 229,
-      "discount": 0.19,
-      "priceAfterDiscount": 185.49
-    },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "variants": [
-      {
-        "variantId": 10,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product6a.jpeg",
-        "stock": [
-          {
-            "Free size": 5
-          }
-        ]
-      },
-      {
-        "variantId": 11,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product6a.jpeg",
-        "stock": [
-          {
-            "Free size": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "images": {
-      "img": "/img/products/women/product7a.jpeg",
-      "imgOnHover": "/img/products/women/product7b.jpeg"
-    },
-    "category": "Dresses",
-    "name": "Printed A - line Skirt",
-    "isNew": false,
-    "pricing": {
-      "price": 427,
-      "discount": 0.18,
-      "priceAfterDiscount": 350.14000000000004
-    },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "variants": [
-      {
-        "variantId": 12,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product7a.jpeg",
-        "stock": [
-          {
-            "XS": 5
-          },
-          {
-            "S": 3
-          },
-          {
-            "M": 4
-          },
-          {
-            "L": 3
-          },
-          {
-            "XL": 0
-          },
-          {
-            "XXL": 4
-          }
-        ]
-      },
-      {
-        "variantId": 13,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product7a.jpeg",
-        "stock": [
-          {
-            "XS": 5
-          },
-          {
-            "S": 0
-          },
-          {
-            "M": 3
-          },
-          {
-            "L": 4
-          },
-          {
-            "XL": 2
-          },
-          {
-            "XXL": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "images": {
-      "img": "/img/products/women/product8a.jpeg",
-      "imgOnHover": "/img/products/women/product8b.jpeg"
-    },
-    "category": "Shoes",
-    "name": "Heel strappy Sandals",
-    "isNew": false,
-    "pricing": {
-      "price": 31,
-      "discount": 0.2,
-      "priceAfterDiscount": 24.8
-    },
-    "colors": [
-      "White",
-      "Black"
-    ],
-    "variants": [
-      {
-        "variantId": 14,
-        "variantColor": "White",
-        "variantImage": "/img/products/women/product8a.jpeg",
-        "stock": [
-          {
-            "6": 5
-          },
-          {
-            "6.5": 0
-          },
-          {
-            "7": 1
+            "7": 0
           },
           {
             "7.5": 3
           },
           {
-            "8": 4
+            "8": 0
           },
           {
-            "8.5": 2
+            "8.5": 4
           },
           {
-            "9": 1
+            "9": 3
           },
           {
             "9.5": 1
           },
           {
-            "10": 4
-          },
-          {
-            "10.5": 3
-          },
-          {
-            "11": 4
-          },
-          {
-            "11.5": 3
-          },
-          {
-            "12": 5
-          },
-          {
-            "13": 5
-          },
-          {
-            "14": 1
-          }
-        ]
-      },
-      {
-        "variantId": 15,
-        "variantColor": "Black",
-        "variantImage": "/img/products/women/product8a.jpeg",
-        "stock": [
-          {
-            "6": 3
-          },
-          {
-            "6.5": 1
-          },
-          {
-            "7": 1
-          },
-          {
-            "7.5": 5
-          },
-          {
-            "8": 5
-          },
-          {
-            "8.5": 1
-          },
-          {
-            "9": 1
-          },
-          {
-            "9.5": 3
-          },
-          {
-            "10": 1
+            "10": 0
           },
           {
             "10.5": 0
           },
           {
-            "11": 0
+            "11": 5
           },
           {
-            "11.5": 5
+            "11.5": 2
           },
           {
-            "12": 0
+            "12": 3
           },
           {
-            "13": 0
+            "13": 1
           },
           {
-            "14": 4
+            "14": 3
           }
         ]
       }

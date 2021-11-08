@@ -1,7 +1,7 @@
 const info = {
   "women": {
     "categories": ['Shoes', 'Dresses', 'Shoes', 'Sweats', 'Dresses', 'Bags', 'Dresses', 'Shoes'],
-    'productName': ['Leather mid-heel Sandals', "Nobody's Child mini shift dress", 'Leather Sneakers', 'Baby Angel oversized full-zip sweatshirt with hood', 'Pinafore with lurex and squared neckline', 'Shoulder bag with zip and tassels', 'Printed A - line Skirt', 'Heel strappy Sandals']
+    'productName': ['Harper Almond Ankle Strap Heels', "Nobody's Child mini shift dress", 'Leather Sneakers', 'Baby Angel oversized full-zip sweatshirt with hood', 'Pinafore with lurex and squared neckline', 'Shoulder bag with zip and tassels', 'Printed A - line Skirt', 'Heel strappy Sandals']
   },
   "men": {
     "categories": ['Casual Shirts', 'Pants', 'Shoes', 'Sweats', 'Bags', 'Coats', 'Sneakers', 'Backpacks'],

@@ -7,14 +7,6 @@ let controlVariantId = 0;
 const categoryKeys = ['women', 'men', 'kids'];
 
 /* Get image URLs */
-function getImgUrl(productIndex, colorIndex, group) {
-  return `/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-1.jpeg`
-}
-
-function getImgOnHoverUrl(productIndex, colorIndex, group) {
-  return `/img/products/${group}/product${productIndex + 1}-color${colorIndex + 1}-2.jpeg`
-}
-
 function getImages(productIndex, colorIndex, group) {
   let array = [];
   for (let i = 1; i <= 4; i++) {
@@ -88,8 +80,6 @@ function getVariants(colorList, sizeList, productIndex, group) {
     variantArray.push({
       variantId: controlVariantId++,
       variantColor: color,
-      variantImage: getImgUrl(productIndex, colorIndex, group),
-      variantImageOnHover: getImgOnHoverUrl(productIndex, colorIndex, group),
       variantImages: getImages(productIndex, colorIndex, group),
       stock: getStock(sizeList)
     })
@@ -114,10 +104,6 @@ function createData(group) {
 
     products.push({
       "id": controlProductId,
-      "images": {
-        "img": getImgUrl(i, 0, group),
-        "imgOnHover": getImgOnHoverUrl(i, 0, group),
-      },
       "category": category,
       name: product.productName,
       "isNew": productStatus.isNew,

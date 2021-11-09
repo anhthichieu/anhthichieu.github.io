@@ -65,7 +65,7 @@ const info = {
     {
       category: 'Bags',
       productName: 'Fosters Bum Bag',
-      colors: ['Lcn fos vintage white', 'Bright Yellow']
+      colors: ['Lcn fos vintage white']
     },
     {
       category: 'Jackets',

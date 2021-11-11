@@ -103,16 +103,17 @@ function createData(group) {
     variants = getVariants(colors, sizes, i, group);
 
     products.push({
-      "id": controlProductId,
-      "category": category,
+      productGroup: group,
+      id: controlProductId,
+      category: category,
       name: product.productName,
-      "isNew": productStatus.isNew,
-      "pricing": {
-        "price": productStatus.price,
-        "discount": productStatus.discountVal,
-        "priceAfterDiscount": productStatus.priceAfterDiscount,
+      isNew: productStatus.isNew,
+      pricing: {
+        price: productStatus.price,
+        discount: productStatus.discountVal,
+        priceAfterDiscount: productStatus.priceAfterDiscount,
       },
-      "variants": variants,
+      variants: variants,
     })
   }
   return products;

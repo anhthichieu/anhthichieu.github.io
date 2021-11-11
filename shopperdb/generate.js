@@ -6,6 +6,10 @@ let controlProductId = 0;
 let controlVariantId = 0;
 const categoryKeys = ['women', 'men', 'kids'];
 
+var faker = require('faker');
+faker.locale = 'en_US';
+let thi = faker.lorem.sentences()
+
 /* Get image URLs */
 function getImages(productIndex, colorIndex, group) {
   let array = [];
@@ -24,16 +28,16 @@ let productStatus = {
 }
 
 function getProductStatus() {
-  // New
+  /* New */
   const newExpression = Math.random() >= 0.5; // Expression will return true 50% of the time, and false the other 50%
   productStatus.isNew = newExpression;
 
-  // Discount
+  /* Discount */
   const discountExpression = Math.random() >= 0.5
   let isDiscounted = productStatus.isNew ? false : discountExpression; // New product is not discounted
   productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
 
-  // Price
+  /* Price */
   productStatus.price = (random(30, 500));
   productStatus.priceAfterDiscount = productStatus.price * (1 - productStatus.discountVal);
 }
@@ -87,6 +91,33 @@ function getVariants(colorList, sizeList, productIndex, group) {
   }, [])
 }
 
+/* Reviews */
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function getReviews() {
+  let reviews = []
+  let reviewCount = random(0, 3);
+
+  if (reviewCount) {
+    for (let i = 0; i < reviewCount; i++) {
+      reviews.push({
+        rating: random(1, 5),
+        reviewer: faker.name.findName(),
+        date: faker.date.past().toDateString(),
+        title: capitalizeFirstLetter(faker.lorem.words()),
+        text: faker.lorem.sentences(),
+        likeCount: random(0, 10),
+        dislikeCount: random(0, 5),
+        commentCount: random(0, 5)
+      })
+    }
+  }
+  return reviews
+}
+
+/* DATA GENERATING */
 function createData(group) {
   let products = [];
   let category = ''
@@ -114,6 +145,7 @@ function createData(group) {
         priceAfterDiscount: productStatus.priceAfterDiscount,
       },
       variants: variants,
+      reviews: getReviews()
     })
   }
   return products;

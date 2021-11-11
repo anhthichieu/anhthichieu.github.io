@@ -6,9 +6,9 @@
     "name": "Harper Ankle Strap Heels",
     "isNew": false,
     "pricing": {
-      "price": 187,
+      "price": 106,
       "discount": 0,
-      "priceAfterDiscount": 187
+      "priceAfterDiscount": 106
     },
     "variants": [
       {
@@ -25,46 +25,46 @@
             "6": 0
           },
           {
-            "6.5": 0
+            "6.5": 5
           },
           {
-            "7": 5
+            "7": 0
           },
           {
             "7.5": 2
           },
           {
-            "8": 0
+            "8": 5
           },
           {
-            "8.5": 5
+            "8.5": 4
           },
           {
-            "9": 5
+            "9": 4
           },
           {
             "9.5": 5
           },
           {
-            "10": 1
+            "10": 4
           },
           {
-            "10.5": 4
+            "10.5": 3
           },
           {
-            "11": 4
+            "11": 5
           },
           {
-            "11.5": 0
+            "11.5": 3
           },
           {
-            "12": 4
+            "12": 1
           },
           {
-            "13": 0
+            "13": 3
           },
           {
-            "14": 3
+            "14": 1
           }
         ]
       },
@@ -79,49 +79,49 @@
         ],
         "stock": [
           {
-            "6": 5
+            "6": 2
           },
           {
-            "6.5": 2
+            "6.5": 4
           },
           {
-            "7": 3
+            "7": 5
           },
           {
-            "7.5": 3
+            "7.5": 4
           },
           {
-            "8": 0
+            "8": 5
           },
           {
-            "8.5": 2
+            "8.5": 1
           },
           {
-            "9": 5
+            "9": 2
           },
           {
-            "9.5": 2
+            "9.5": 3
           },
           {
             "10": 3
           },
           {
-            "10.5": 3
+            "10.5": 4
           },
           {
-            "11": 0
+            "11": 4
           },
           {
-            "11.5": 0
+            "11.5": 2
           },
           {
-            "12": 1
+            "12": 5
           },
           {
-            "13": 4
+            "13": 2
           },
           {
-            "14": 5
+            "14": 0
           }
         ]
       },
@@ -136,51 +136,63 @@
         ],
         "stock": [
           {
-            "6": 5
+            "6": 2
           },
           {
-            "6.5": 5
+            "6.5": 4
           },
           {
-            "7": 0
+            "7": 5
           },
           {
             "7.5": 2
           },
           {
-            "8": 2
+            "8": 4
           },
           {
-            "8.5": 5
+            "8.5": 0
           },
           {
-            "9": 2
+            "9": 0
           },
           {
-            "9.5": 3
+            "9.5": 1
           },
           {
-            "10": 3
+            "10": 4
           },
           {
-            "10.5": 2
+            "10.5": 5
           },
           {
-            "11": 5
+            "11": 1
           },
           {
-            "11.5": 1
+            "11.5": 3
           },
           {
-            "12": 1
+            "12": 5
           },
           {
-            "13": 3
+            "13": 2
           },
           {
-            "14": 3
+            "14": 1
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "reviewer": "Mrs. Brendan Block",
+        "date": "Fri Mar 19 2021",
+        "title": "Optio quia doloremque",
+        "text": "Quisquam nisi vitae ut iste deserunt. Autem voluptate ea et ea quo ratione asperiores.",
+        "likeCount": 4,
+        "dislikeCount": 0,
+        "commentCount": 4
       }
     ]
   },
@@ -189,11 +201,11 @@
     "id": 2,
     "category": "Dresses",
     "name": "In the Meadows Crochet Lace Babydoll Dress",
-    "isNew": true,
+    "isNew": false,
     "pricing": {
-      "price": 48,
+      "price": 188,
       "discount": 0,
-      "priceAfterDiscount": 48
+      "priceAfterDiscount": 188
     },
     "variants": [
       {
@@ -207,7 +219,7 @@
         ],
         "stock": [
           {
-            "XS": 1
+            "XS": 3
           },
           {
             "S": 2
@@ -216,7 +228,7 @@
             "M": 0
           },
           {
-            "L": 1
+            "L": 2
           },
           {
             "XL": 4
@@ -237,26 +249,27 @@
         ],
         "stock": [
           {
-            "XS": 5
+            "XS": 1
           },
           {
-            "S": 0
+            "S": 3
           },
           {
-            "M": 3
+            "M": 1
           },
           {
             "L": 3
           },
           {
-            "XL": 0
+            "XL": 4
           },
           {
-            "XXL": 1
+            "XXL": 3
           }
         ]
       }
-    ]
+    ],
+    "reviews": []
   },
   {
     "productGroup": "women",
@@ -265,9 +278,9 @@
     "name": "Fayth  Chunky Sneakers",
     "isNew": false,
     "pricing": {
-      "price": 206,
-      "discount": 0,
-      "priceAfterDiscount": 206
+      "price": 324,
+      "discount": 0.45,
+      "priceAfterDiscount": 178.20000000000002
     },
     "variants": [
       {
@@ -281,43 +294,43 @@
         ],
         "stock": [
           {
-            "6": 5
+            "6": 0
           },
           {
-            "6.5": 3
+            "6.5": 5
           },
           {
-            "7": 4
+            "7": 0
           },
           {
-            "7.5": 1
+            "7.5": 0
           },
           {
-            "8": 3
+            "8": 1
           },
           {
             "8.5": 1
           },
           {
-            "9": 0
+            "9": 2
           },
           {
             "9.5": 3
           },
           {
-            "10": 0
+            "10": 4
           },
           {
-            "10.5": 5
+            "10.5": 2
           },
           {
-            "11": 3
+            "11": 4
           },
           {
-            "11.5": 2
+            "11.5": 1
           },
           {
-            "12": 4
+            "12": 3
           },
           {
             "13": 4
@@ -326,6 +339,38 @@
             "14": 0
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "reviewer": "Dianna Beier",
+        "date": "Tue Jan 05 2021",
+        "title": "Ab numquam voluptas",
+        "text": "Consectetur placeat corporis tenetur et quaerat officiis voluptatem quia voluptas. Sint molestias officiis ut ipsam quia sed ex sunt tenetur. Et eveniet unde sed. Rerum dolore expedita. Voluptatem dolorem corrupti sit rerum consequatur quis doloremque. Quaerat mollitia id dolor error molestias.",
+        "likeCount": 2,
+        "dislikeCount": 2,
+        "commentCount": 1
+      },
+      {
+        "rating": 1,
+        "reviewer": "Dean Considine",
+        "date": "Thu Jul 22 2021",
+        "title": "Aut assumenda sint",
+        "text": "Aut sequi nesciunt eaque reiciendis minima deserunt ducimus qui non. Voluptate sint autem dolor quae. Facere id dolorem et. Occaecati nesciunt velit dolores magnam voluptatibus totam earum. Commodi consectetur est similique.",
+        "likeCount": 5,
+        "dislikeCount": 2,
+        "commentCount": 0
+      },
+      {
+        "rating": 4,
+        "reviewer": "Bruce Schultz",
+        "date": "Sat Oct 16 2021",
+        "title": "Et sed quisquam",
+        "text": "Consequatur eos perspiciatis. Deleniti assumenda at qui non.",
+        "likeCount": 1,
+        "dislikeCount": 1,
+        "commentCount": 3
       }
     ]
   },
@@ -336,9 +381,9 @@
     "name": "Twist Connection Washed Burgundy Backless Cropped Sweater Top",
     "isNew": true,
     "pricing": {
-      "price": 387,
+      "price": 294,
       "discount": 0,
-      "priceAfterDiscount": 387
+      "priceAfterDiscount": 294
     },
     "variants": [
       {
@@ -352,22 +397,22 @@
         ],
         "stock": [
           {
-            "XS": 3
+            "XS": 0
           },
           {
-            "S": 2
+            "S": 0
           },
           {
-            "M": 4
+            "M": 3
           },
           {
-            "L": 3
+            "L": 5
           },
           {
-            "XL": 4
+            "XL": 0
           },
           {
-            "XXL": 1
+            "XXL": 2
           }
         ]
       },
@@ -382,24 +427,46 @@
         ],
         "stock": [
           {
-            "XS": 0
+            "XS": 5
           },
           {
-            "S": 2
+            "S": 5
           },
           {
-            "M": 5
+            "M": 3
           },
           {
-            "L": 3
+            "L": 4
           },
           {
             "XL": 2
           },
           {
-            "XXL": 5
+            "XXL": 1
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "reviewer": "Silvia Lang",
+        "date": "Mon Mar 01 2021",
+        "title": "Tempora quae exercitationem",
+        "text": "Nulla recusandae delectus voluptatem ullam eaque delectus sapiente est voluptas. Molestias adipisci veniam facere aut voluptatum distinctio ut et. Molestiae qui enim fuga qui iusto et facilis.",
+        "likeCount": 10,
+        "dislikeCount": 5,
+        "commentCount": 3
+      },
+      {
+        "rating": 2,
+        "reviewer": "Ms. Jesse Botsford",
+        "date": "Sun Feb 28 2021",
+        "title": "Aut labore reprehenderit",
+        "text": "Ducimus sit dignissimos omnis consequatur consequatur voluptate quis delectus pariatur. Enim eveniet harum animi nostrum dolorem eligendi. Nihil unde ratione eaque est voluptas quia voluptas laboriosam. Ea quibusdam natus in sit quis totam commodi. At magni soluta. Quia quia at odio velit.",
+        "likeCount": 10,
+        "dislikeCount": 4,
+        "commentCount": 3
       }
     ]
   },
@@ -408,11 +475,11 @@
     "id": 5,
     "category": "Dresses",
     "name": "Loving is Easy Jacquard Pleated Skater Dress",
-    "isNew": false,
+    "isNew": true,
     "pricing": {
-      "price": 99,
-      "discount": 0.22,
-      "priceAfterDiscount": 77.22
+      "price": 206,
+      "discount": 0,
+      "priceAfterDiscount": 206
     },
     "variants": [
       {
@@ -426,22 +493,22 @@
         ],
         "stock": [
           {
-            "XS": 5
+            "XS": 3
           },
           {
             "S": 4
           },
           {
-            "M": 0
+            "M": 4
           },
           {
-            "L": 4
+            "L": 2
           },
           {
-            "XL": 3
+            "XL": 2
           },
           {
-            "XXL": 3
+            "XXL": 1
           }
         ]
       },
@@ -459,21 +526,53 @@
             "XS": 5
           },
           {
-            "S": 4
+            "S": 1
           },
           {
             "M": 1
           },
           {
-            "L": 2
+            "L": 5
           },
           {
-            "XL": 0
+            "XL": 5
           },
           {
             "XXL": 3
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 2,
+        "reviewer": "Ms. Van Labadie",
+        "date": "Sun Jan 31 2021",
+        "title": "Repellendus est laudantium",
+        "text": "Et fugit minus repellat necessitatibus. Quibusdam in ex omnis impedit est voluptatem facilis corporis. Vel culpa officiis illo consequuntur voluptas fuga est sint.",
+        "likeCount": 1,
+        "dislikeCount": 2,
+        "commentCount": 4
+      },
+      {
+        "rating": 5,
+        "reviewer": "Miss Tami Klocko",
+        "date": "Sun Aug 08 2021",
+        "title": "Atque et officiis",
+        "text": "Ex ipsam autem explicabo reprehenderit a omnis. Eaque adipisci nostrum. Eveniet assumenda quia rerum quia labore tempore est temporibus itaque. Dolore non aperiam excepturi eligendi temporibus assumenda impedit hic.",
+        "likeCount": 10,
+        "dislikeCount": 2,
+        "commentCount": 0
+      },
+      {
+        "rating": 5,
+        "reviewer": "Patty Reichert DVM",
+        "date": "Thu Sep 02 2021",
+        "title": "Blanditiis in et",
+        "text": "Illo ex nihil. Est aut deserunt debitis.",
+        "likeCount": 2,
+        "dislikeCount": 2,
+        "commentCount": 5
       }
     ]
   },
@@ -484,9 +583,9 @@
     "name": "Sidewalk Stunner Vegan Leather Backpack",
     "isNew": true,
     "pricing": {
-      "price": 30,
+      "price": 408,
       "discount": 0,
-      "priceAfterDiscount": 30
+      "priceAfterDiscount": 408
     },
     "variants": [
       {
@@ -534,7 +633,8 @@
           }
         ]
       }
-    ]
+    ],
+    "reviews": []
   },
   {
     "productGroup": "women",
@@ -543,9 +643,9 @@
     "name": "Ambrosio High-Low Maxi Skirt",
     "isNew": false,
     "pricing": {
-      "price": 358,
-      "discount": 0.51,
-      "priceAfterDiscount": 175.42
+      "price": 106,
+      "discount": 0.1,
+      "priceAfterDiscount": 95.4
     },
     "variants": [
       {
@@ -559,22 +659,22 @@
         ],
         "stock": [
           {
-            "XS": 1
+            "XS": 5
           },
           {
             "S": 0
           },
           {
-            "M": 1
+            "M": 0
           },
           {
-            "L": 4
+            "L": 2
           },
           {
-            "XL": 0
+            "XL": 4
           },
           {
-            "XXL": 4
+            "XXL": 0
           }
         ]
       },
@@ -595,18 +695,50 @@
             "S": 0
           },
           {
-            "M": 5
+            "M": 1
           },
           {
-            "L": 3
+            "L": 0
           },
           {
             "XL": 5
           },
           {
-            "XXL": 1
+            "XXL": 3
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 3,
+        "reviewer": "Cassandra Bechtelar",
+        "date": "Sat Oct 09 2021",
+        "title": "Aut illum nisi",
+        "text": "Qui expedita officia quae et minima eos. Ea consequatur accusantium alias asperiores facere. Quia tenetur odit illum tempore necessitatibus.",
+        "likeCount": 6,
+        "dislikeCount": 1,
+        "commentCount": 0
+      },
+      {
+        "rating": 3,
+        "reviewer": "Duane Zboncak",
+        "date": "Thu Nov 04 2021",
+        "title": "Quo adipisci dolore",
+        "text": "Aut quis voluptatum ipsum possimus esse aut ut sunt. Aliquid harum accusantium qui.",
+        "likeCount": 5,
+        "dislikeCount": 0,
+        "commentCount": 4
+      },
+      {
+        "rating": 3,
+        "reviewer": "Ivan Morar",
+        "date": "Sun Apr 04 2021",
+        "title": "Unde rerum cumque",
+        "text": "Ratione eum magni cumque sequi delectus reprehenderit illo. Est est voluptatem et laborum adipisci et.",
+        "likeCount": 10,
+        "dislikeCount": 0,
+        "commentCount": 4
       }
     ]
   },
@@ -617,9 +749,9 @@
     "name": "Shasta Suede Ankle Booties",
     "isNew": true,
     "pricing": {
-      "price": 43,
+      "price": 81,
       "discount": 0,
-      "priceAfterDiscount": 43
+      "priceAfterDiscount": 81
     },
     "variants": [
       {
@@ -633,49 +765,49 @@
         ],
         "stock": [
           {
-            "6": 1
+            "6": 5
           },
           {
-            "6.5": 4
+            "6.5": 2
           },
           {
-            "7": 1
+            "7": 3
           },
           {
-            "7.5": 2
+            "7.5": 1
           },
           {
-            "8": 1
+            "8": 2
           },
           {
-            "8.5": 2
+            "8.5": 3
           },
           {
-            "9": 2
+            "9": 3
           },
           {
-            "9.5": 2
+            "9.5": 4
           },
           {
-            "10": 3
+            "10": 5
           },
           {
-            "10.5": 0
+            "10.5": 2
           },
           {
-            "11": 0
+            "11": 3
           },
           {
-            "11.5": 1
+            "11.5": 0
           },
           {
             "12": 4
           },
           {
-            "13": 4
+            "13": 2
           },
           {
-            "14": 5
+            "14": 0
           }
         ]
       },
@@ -693,48 +825,80 @@
             "6": 1
           },
           {
-            "6.5": 0
+            "6.5": 3
           },
           {
-            "7": 4
+            "7": 1
           },
           {
-            "7.5": 2
+            "7.5": 0
           },
           {
-            "8": 1
+            "8": 2
           },
           {
-            "8.5": 2
+            "8.5": 3
           },
           {
-            "9": 5
+            "9": 0
           },
           {
-            "9.5": 0
+            "9.5": 3
           },
           {
-            "10": 0
+            "10": 1
           },
           {
-            "10.5": 1
+            "10.5": 0
           },
           {
-            "11": 4
+            "11": 2
           },
           {
             "11.5": 5
           },
           {
-            "12": 5
+            "12": 4
           },
           {
-            "13": 3
+            "13": 0
           },
           {
-            "14": 5
+            "14": 2
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "reviewer": "Elizabeth Dietrich I",
+        "date": "Tue Jun 08 2021",
+        "title": "Eum sunt aperiam",
+        "text": "Consequatur qui dignissimos labore. Voluptatem minus assumenda voluptatem vitae reprehenderit rem. Aut sunt et officia molestiae numquam delectus quia. Hic aut in eligendi illo fuga ratione aut rerum numquam.",
+        "likeCount": 3,
+        "dislikeCount": 3,
+        "commentCount": 1
+      },
+      {
+        "rating": 1,
+        "reviewer": "Kelli Cormier",
+        "date": "Fri Dec 18 2020",
+        "title": "Quos dolorem et",
+        "text": "Et voluptatem enim qui nihil animi voluptates ducimus autem possimus. Earum rerum maiores dicta quasi veritatis et sed et vitae. Ea molestias aut nihil fugiat aut est praesentium et impedit. Aut dolores illo voluptatem repellendus quas eos repudiandae quam.",
+        "likeCount": 0,
+        "dislikeCount": 3,
+        "commentCount": 4
+      },
+      {
+        "rating": 1,
+        "reviewer": "Roberto Batz",
+        "date": "Fri Sep 17 2021",
+        "title": "Vel quo minima",
+        "text": "Nihil placeat voluptates sunt quis optio voluptatibus velit tempore a. Ad eaque eos corporis et. Ex similique sit non deleniti unde est in esse. Inventore accusantium molestiae ducimus in aspernatur. Sint quasi veritatis. Ducimus veniam enim quis est fuga nemo debitis nihil.",
+        "likeCount": 5,
+        "dislikeCount": 5,
+        "commentCount": 1
       }
     ]
   }

@@ -105,7 +105,7 @@ function getReviews() {
       reviews.push({
         rating: random(1, 5),
         reviewer: faker.name.findName(),
-        date: faker.date.past().toDateString(),
+        date: faker.date.past(),
         title: capitalizeFirstLetter(faker.lorem.words()),
         text: faker.lorem.sentences(),
         likeCount: random(0, 10),

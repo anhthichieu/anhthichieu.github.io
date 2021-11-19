@@ -1,14 +1,13 @@
 const { random, round } = require('lodash')
 const fs = require('fs');
+var faker = require('faker');
+faker.locale = 'en_US';
+
 const newProductInfo = require('./newProductInfo');
 
 let controlProductId = 0;
 let controlVariantId = 0;
 const categoryKeys = ['women', 'men', 'kids'];
-
-var faker = require('faker');
-faker.locale = 'en_US';
-let thi = faker.lorem.sentences()
 
 /* Get image URLs */
 function getImages(productIndex, colorIndex, group) {
@@ -124,6 +123,9 @@ function createData(group) {
   let sizes = []
   let variants = [];
   let colors = [];
+
+  // Use Array.entries() to iterate over both index and value of elements
+  // Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries
 
   for (let [i, product] of newProductInfo[group].entries()) {
     getProductStatus();

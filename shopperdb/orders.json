@@ -1,0 +1,274 @@
+[
+  {
+    "orderNo": "699926906",
+    "status": "In Processing",
+    "items": [
+      {
+        "productId": 8,
+        "image": "/img/products/women/product8-color2-1.jpeg",
+        "name": "Shasta Suede Ankle Booties",
+        "variantColor": "Black",
+        "sizeName": "11.5",
+        "quantity": 1,
+        "sizeStock": 4,
+        "price": 480
+      },
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      },
+      {
+        "productId": 20,
+        "image": "/img/products/kids/product4-color1-1.jpeg",
+        "name": "Classic Homeboots",
+        "variantColor": "Silver Sage",
+        "sizeName": "11",
+        "quantity": 1,
+        "sizeStock": 5,
+        "price": 358.83000000000004
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Express Shipping (3-5 days)",
+      "shippingFee": 12
+    },
+    "addresses": {
+      "billing": [
+        "Marion Torphy Sr.",
+        "5167 Vandervort Cliffs",
+        "West Maria",
+        "California",
+        "56800"
+      ],
+      "shipping": [
+        "Marion Torphy Sr.",
+        "5167 Vandervort Cliffs",
+        "West Maria",
+        "California",
+        "56800"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "416283039",
+    "status": "In Processing",
+    "items": [
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Julius Considine",
+        "8898 Sawayn Springs",
+        "Rutherfordton",
+        "Nebraska",
+        "53207-0324"
+      ],
+      "shipping": [
+        "Julius Considine",
+        "8898 Sawayn Springs",
+        "Rutherfordton",
+        "Nebraska",
+        "53207-0324"
+      ]
+    },
+    "paymentMethod": "Debit Mastercard"
+  },
+  {
+    "orderNo": "872306806",
+    "status": "Shipped",
+    "items": [
+      {
+        "productId": 2,
+        "image": "/img/products/women/product2-color1-1.jpeg",
+        "name": "In the Meadows Crochet Lace Babydoll Dress",
+        "variantColor": "Mustard Yellow",
+        "sizeName": "M",
+        "quantity": 4,
+        "sizeStock": 5,
+        "price": 408
+      },
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Juan Gorczany",
+        "209 Wolff Valley",
+        "Jayneview",
+        "Pennsylvania",
+        "53999-2936"
+      ],
+      "shipping": [
+        "Juan Gorczany",
+        "209 Wolff Valley",
+        "Jayneview",
+        "Pennsylvania",
+        "53999-2936"
+      ]
+    },
+    "paymentMethod": "Debit Mastercard"
+  },
+  {
+    "orderNo": "747650166",
+    "status": "Shipped",
+    "items": [
+      {
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
+        "sizeName": "7.5",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 154.38000000000002
+      },
+      {
+        "productId": 17,
+        "image": "/img/products/kids/product1-color2-1.jpeg",
+        "name": "Emmy Oversized Denim Jacket",
+        "variantColor": "Bleach Wash/Contrast Floral",
+        "sizeName": "S",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 28.439999999999998
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "1-2 day Shipping",
+      "shippingFee": 18
+    },
+    "addresses": {
+      "billing": [
+        "Elijah Kiehn",
+        "779 Veum Centers",
+        "Kristyshire",
+        "Montana",
+        "81188-7270"
+      ],
+      "shipping": [
+        "Elijah Kiehn",
+        "779 Veum Centers",
+        "Kristyshire",
+        "Montana",
+        "81188-7270"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "530999843",
+    "status": "Delivered",
+    "items": [
+      {
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
+        "sizeName": "7.5",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 154.38000000000002
+      },
+      {
+        "productId": 12,
+        "image": "/img/products/men/product4-color1-1.jpeg",
+        "name": "Essential Fleece Pullover",
+        "variantColor": "Washed Teal",
+        "sizeName": "M",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 69
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Express Shipping (3-5 days)",
+      "shippingFee": 12
+    },
+    "addresses": {
+      "billing": [
+        "Delia Simonis III",
+        "44163 Turcotte Prairie",
+        "Torrance",
+        "Washington",
+        "72241"
+      ],
+      "shipping": [
+        "Delia Simonis III",
+        "44163 Turcotte Prairie",
+        "Torrance",
+        "Washington",
+        "72241"
+      ]
+    },
+    "paymentMethod": "Debit Mastercard"
+  },
+  {
+    "orderNo": "307781349",
+    "status": "Cancelled",
+    "items": [
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Pamela Funk",
+        "6369 Walker Spring",
+        "Tatyanaside",
+        "Virginia",
+        "22405"
+      ],
+      "shipping": [
+        "Pamela Funk",
+        "6369 Walker Spring",
+        "Tatyanaside",
+        "Virginia",
+        "22405"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  }
+]

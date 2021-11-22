@@ -30,7 +30,7 @@ const shippingOptions = [
 const paymentMethod = ['Debit Mastercard', 'Paypal']
 
 function getItems() {
-  let quantity = random(1, 3);
+  let quantity = random(1, 5);
   let items = [];
   let randomSelection;
   while (items.length < quantity) {

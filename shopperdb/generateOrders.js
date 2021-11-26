@@ -40,7 +40,7 @@ function getItems() {
   return items;
 }
 
-function getAddress() {
+function getAddress(index) {
   const billing = {
     firstName: faker.name.firstName(),
     lastName: faker.name.lastName(),
@@ -54,7 +54,7 @@ function getAddress() {
   };
 
   let isBillingAndShippingSame = faker.datatype.boolean();
-  let shipping = {};
+  let shipping;
 
   if (isBillingAndShippingSame) {
     shipping = { ...billing };
@@ -70,10 +70,11 @@ function getAddress() {
       phone: faker.phone.phoneNumber(),
       companyName: faker.company.companyName()
     };
-
-    let addresses = { billing, shipping };
-    return addresses;
   }
+
+  let addresses = { billing, shipping };
+  return addresses;
+
 }
 
 function getShipping() {
@@ -94,7 +95,7 @@ function createData() {
       status: statuses[random(0, statuses.length - 1)],
       items: getItems(),
       shipping: getShipping(),
-      addresses: getAddress(),
+      addresses: getAddress(i),
       paymentMethod: paymentMethod[random(0, paymentMethod.length - 1)]
     })
   }

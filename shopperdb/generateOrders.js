@@ -41,34 +41,39 @@ function getItems() {
 }
 
 function getAddress() {
-  const billing = [
-    faker.name.findName(),
-    faker.address.streetAddress(),
-    faker.address.city(),
-    faker.address.state(),
-    faker.address.zipCodeByState(),
-    faker.address.country(),
-    faker.address.zipCode(),
-  ];
+  const billing = {
+    firstName: faker.name.firstName(),
+    lastName: faker.name.lastName(),
+    addressLine1: faker.address.streetAddress(),
+    addressLine2: faker.address.streetAddress(),
+    city: faker.address.city(),
+    zipCode: faker.address.zipCodeByState(),
+    country: faker.address.country(),
+    phone: faker.phone.phoneNumber(),
+    companyName: faker.company.companyName()
+  };
 
   let isBillingAndShippingSame = faker.datatype.boolean();
-  let shipping;
+  let shipping = {};
 
   if (isBillingAndShippingSame) {
-    shipping = [...billing];
+    shipping = { ...billing };
   } else {
-    shipping = [
-      faker.name.findName(),
-      faker.address.streetAddress(),
-      faker.address.city(),
-      faker.address.state(),
-      faker.address.zipCodeByState(),
-      faker.address.country(),
-      faker.address.zipCode(),];
-  }
+    shipping = {
+      firstName: faker.name.firstName(),
+      lastName: faker.name.lastName(),
+      addressLine1: faker.address.streetAddress(),
+      addressLine2: faker.address.streetAddress(),
+      city: faker.address.city(),
+      zipCode: faker.address.zipCodeByState(),
+      country: faker.address.country(),
+      phone: faker.phone.phoneNumber(),
+      companyName: faker.company.companyName()
+    };
 
-  let addresses = { billing, shipping };
-  return addresses;
+    let addresses = { billing, shipping };
+    return addresses;
+  }
 }
 
 function getShipping() {
@@ -96,6 +101,7 @@ function createData() {
 
   return orders;
 }
+
 
 const data = createData();
 fs.writeFileSync("./orders.json", JSON.stringify(data));

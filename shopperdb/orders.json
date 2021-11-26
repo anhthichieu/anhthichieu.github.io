@@ -1,122 +1,49 @@
 [
   {
-    "orderNo": "588189760",
+    "orderNo": "646750882",
     "status": "Cancelled",
     "items": [
       {
-        "productId": 15,
-        "image": "/img/products/men/product7-color2-1.jpeg",
-        "name": "Lorne Sunglasses",
-        "variantColor": "Tort/Green",
-        "sizeName": "One size",
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
+        "sizeName": "7.5",
         "quantity": 2,
         "sizeStock": 5,
-        "price": 338.12
-      },
-      {
-        "productId": 2,
-        "image": "/img/products/women/product2-color1-1.jpeg",
-        "name": "In the Meadows Crochet Lace Babydoll Dress",
-        "variantColor": "Mustard Yellow",
-        "sizeName": "M",
-        "quantity": 4,
-        "sizeStock": 5,
-        "price": 408
+        "price": 154.38000000000002
       }
     ],
     "shipping": {
-      "shippingMethod": "Free Shipping",
-      "shippingFee": 0
+      "shippingMethod": "1-2 day Shipping",
+      "shippingFee": 18
     },
     "addresses": {
       "billing": [
-        "Alma Adams IV",
-        "89666 Darwin Freeway",
-        "New Kiara",
-        "North Carolina",
-        "30390-1538"
+        "Mr. Alton Yost",
+        "7204 Hammes Plains",
+        "Jeradborough",
+        "Arizona",
+        "92449-9873",
+        "Russian Federation",
+        "40594"
       ],
       "shipping": [
-        "Alma Adams IV",
-        "89666 Darwin Freeway",
-        "New Kiara",
-        "North Carolina",
-        "30390-1538"
+        "Mr. Alton Yost",
+        "7204 Hammes Plains",
+        "Jeradborough",
+        "Arizona",
+        "92449-9873",
+        "Russian Federation",
+        "40594"
       ]
     },
-    "paymentMethod": "Paypal"
+    "paymentMethod": "Debit Mastercard"
   },
   {
-    "orderNo": "493450296",
-    "status": "Partially Shipped",
+    "orderNo": "270302800",
+    "status": "Cancelled",
     "items": [
-      {
-        "productId": 17,
-        "image": "/img/products/kids/product1-color2-1.jpeg",
-        "name": "Emmy Oversized Denim Jacket",
-        "variantColor": "Bleach Wash/Contrast Floral",
-        "sizeName": "S",
-        "quantity": 1,
-        "sizeStock": 3,
-        "price": 28.439999999999998
-      },
-      {
-        "productId": 15,
-        "image": "/img/products/men/product7-color2-1.jpeg",
-        "name": "Lorne Sunglasses",
-        "variantColor": "Tort/Green",
-        "sizeName": "One size",
-        "quantity": 2,
-        "sizeStock": 5,
-        "price": 338.12
-      },
-      {
-        "productId": 19,
-        "image": "/img/products/kids/product3-color1-1.jpeg",
-        "name": "Libby Sleeveless Dress",
-        "variantColor": "Indigo Blue Wash",
-        "sizeName": "XL",
-        "quantity": 1,
-        "sizeStock": 2,
-        "price": 280
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "Express Shipping (3-5 days)",
-      "shippingFee": 12
-    },
-    "addresses": {
-      "billing": [
-        "Dana Mraz II",
-        "7778 Beverly Hill",
-        "Lake Stephanymouth",
-        "Pennsylvania",
-        "70336-2143"
-      ],
-      "shipping": [
-        "Dana Mraz II",
-        "7778 Beverly Hill",
-        "Lake Stephanymouth",
-        "Pennsylvania",
-        "70336-2143"
-      ]
-    },
-    "paymentMethod": "Paypal"
-  },
-  {
-    "orderNo": "476614923",
-    "status": "In Processing",
-    "items": [
-      {
-        "productId": 17,
-        "image": "/img/products/kids/product1-color2-1.jpeg",
-        "name": "Emmy Oversized Denim Jacket",
-        "variantColor": "Bleach Wash/Contrast Floral",
-        "sizeName": "S",
-        "quantity": 1,
-        "sizeStock": 3,
-        "price": 28.439999999999998
-      },
       {
         "productId": 20,
         "image": "/img/products/kids/product4-color1-1.jpeg",
@@ -126,16 +53,67 @@
         "quantity": 1,
         "sizeStock": 5,
         "price": 358.83000000000004
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Olive Stamm",
+        "5906 Dominique Harbor",
+        "New Aidenview",
+        "Massachusetts",
+        "30229",
+        "Cyprus",
+        "48251-1611"
+      ],
+      "shipping": [
+        "Olive Stamm",
+        "5906 Dominique Harbor",
+        "New Aidenview",
+        "Massachusetts",
+        "30229",
+        "Cyprus",
+        "48251-1611"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "481782361",
+    "status": "Awating Pickup",
+    "items": [
+      {
+        "productId": 17,
+        "image": "/img/products/kids/product1-color2-1.jpeg",
+        "name": "Emmy Oversized Denim Jacket",
+        "variantColor": "Bleach Wash/Contrast Floral",
+        "sizeName": "S",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 28.439999999999998
       },
       {
-        "productId": 19,
-        "image": "/img/products/kids/product3-color1-1.jpeg",
-        "name": "Libby Sleeveless Dress",
-        "variantColor": "Indigo Blue Wash",
-        "sizeName": "XL",
+        "productId": 6,
+        "image": "/img/products/women/product6-color3-1.jpeg",
+        "name": "Sidewalk Stunner Vegan Leather Backpack",
+        "variantColor": "Grey",
+        "sizeName": "One size",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 209
+      },
+      {
+        "productId": 3,
+        "image": "/img/products/women/product3-color1-1.jpeg",
+        "name": "Fayth Chunky Sneakers",
+        "variantColor": "White and Green",
+        "sizeName": "7.5",
         "quantity": 1,
         "sizeStock": 2,
-        "price": 280
+        "price": 499
       },
       {
         "productId": 2,
@@ -146,6 +124,67 @@
         "quantity": 4,
         "sizeStock": 5,
         "price": 408
+      },
+      {
+        "productId": 12,
+        "image": "/img/products/men/product4-color1-1.jpeg",
+        "name": "Essential Fleece Pullover",
+        "variantColor": "Washed Teal",
+        "sizeName": "M",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 69
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "1-2 day Shipping",
+      "shippingFee": 18
+    },
+    "addresses": {
+      "billing": [
+        "Juanita Konopelski",
+        "5221 Casandra Fields",
+        "Wellington",
+        "Idaho",
+        "17562",
+        "Canada",
+        "63379"
+      ],
+      "shipping": [
+        "Juanita Konopelski",
+        "5221 Casandra Fields",
+        "Wellington",
+        "Idaho",
+        "17562",
+        "Canada",
+        "63379"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "184898837",
+    "status": "Delivered",
+    "items": [
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      },
+      {
+        "productId": 3,
+        "image": "/img/products/women/product3-color1-1.jpeg",
+        "name": "Fayth Chunky Sneakers",
+        "variantColor": "White and Green",
+        "sizeName": "7.5",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 499
       },
       {
         "productId": 6,
@@ -164,26 +203,89 @@
     },
     "addresses": {
       "billing": [
-        "Darin Marks",
-        "2901 Korey Summit",
-        "Borerhaven",
-        "Indiana",
-        "32866-4244"
+        "Hazel Hackett",
+        "53548 Littel Shore",
+        "Clarkfurt",
+        "Connecticut",
+        "80351",
+        "Pakistan",
+        "58660-6087"
       ],
       "shipping": [
-        "Vivian Hammes",
-        "66969 Gutmann Points",
-        "North Lianafurt",
-        "North Dakota",
-        "06858-4914"
+        "Hazel Hackett",
+        "53548 Littel Shore",
+        "Clarkfurt",
+        "Connecticut",
+        "80351",
+        "Pakistan",
+        "58660-6087"
       ]
     },
-    "paymentMethod": "Paypal"
+    "paymentMethod": "Debit Mastercard"
   },
   {
-    "orderNo": "830628238",
-    "status": "In Processing",
+    "orderNo": "266366397",
+    "status": "Shipped",
     "items": [
+      {
+        "productId": 8,
+        "image": "/img/products/women/product8-color2-1.jpeg",
+        "name": "Shasta Suede Ankle Booties",
+        "variantColor": "Black",
+        "sizeName": "11.5",
+        "quantity": 1,
+        "sizeStock": 4,
+        "price": 480
+      },
+      {
+        "productId": 6,
+        "image": "/img/products/women/product6-color3-1.jpeg",
+        "name": "Sidewalk Stunner Vegan Leather Backpack",
+        "variantColor": "Grey",
+        "sizeName": "One size",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 209
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Carol Bednar",
+        "3672 Mertz Forge",
+        "St. Peters",
+        "Wisconsin",
+        "54033",
+        "Brazil",
+        "34638-5824"
+      ],
+      "shipping": [
+        "Delia Carter",
+        "4231 Pfannerstill Pines",
+        "Port Javonmouth",
+        "Arizona",
+        "83922"
+      ]
+    },
+    "paymentMethod": "Debit Mastercard"
+  },
+  {
+    "orderNo": "568141003",
+    "status": "Cancelled",
+    "items": [
+      {
+        "productId": 15,
+        "image": "/img/products/men/product7-color2-1.jpeg",
+        "name": "Lorne Sunglasses",
+        "variantColor": "Tort/Green",
+        "sizeName": "One size",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 338.12
+      },
       {
         "productId": 1,
         "image": "/img/products/women/product1-color2-1.jpeg",
@@ -195,51 +297,14 @@
         "price": 154.38000000000002
       },
       {
-        "productId": 19,
-        "image": "/img/products/kids/product3-color1-1.jpeg",
-        "name": "Libby Sleeveless Dress",
-        "variantColor": "Indigo Blue Wash",
-        "sizeName": "XL",
+        "productId": 8,
+        "image": "/img/products/women/product8-color2-1.jpeg",
+        "name": "Shasta Suede Ankle Booties",
+        "variantColor": "Black",
+        "sizeName": "11.5",
         "quantity": 1,
-        "sizeStock": 2,
-        "price": 280
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "Free Shipping",
-      "shippingFee": 0
-    },
-    "addresses": {
-      "billing": [
-        "Gregory Schneider",
-        "489 Marks Ports",
-        "Riceton",
-        "Arizona",
-        "25139-9460"
-      ],
-      "shipping": [
-        "Gregory Schneider",
-        "489 Marks Ports",
-        "Riceton",
-        "Arizona",
-        "25139-9460"
-      ]
-    },
-    "paymentMethod": "Debit Mastercard"
-  },
-  {
-    "orderNo": "528091119",
-    "status": "Shipped",
-    "items": [
-      {
-        "productId": 12,
-        "image": "/img/products/men/product4-color1-1.jpeg",
-        "name": "Essential Fleece Pullover",
-        "variantColor": "Washed Teal",
-        "sizeName": "M",
-        "quantity": 1,
-        "sizeStock": 2,
-        "price": 69
+        "sizeStock": 4,
+        "price": 480
       }
     ],
     "shipping": {
@@ -248,55 +313,20 @@
     },
     "addresses": {
       "billing": [
-        "Earnest West Sr.",
-        "3819 Weldon Dale",
-        "Ladariuschester",
-        "Florida",
-        "81705-7758"
+        "Glenda Harris",
+        "4259 Colby Trafficway",
+        "Monroe",
+        "Kansas",
+        "03192",
+        "Angola",
+        "05528-3081"
       ],
       "shipping": [
-        "Earnest West Sr.",
-        "3819 Weldon Dale",
-        "Ladariuschester",
-        "Florida",
-        "81705-7758"
-      ]
-    },
-    "paymentMethod": "Paypal"
-  },
-  {
-    "orderNo": "780523881",
-    "status": "Shipped",
-    "items": [
-      {
-        "productId": 2,
-        "image": "/img/products/women/product2-color1-1.jpeg",
-        "name": "In the Meadows Crochet Lace Babydoll Dress",
-        "variantColor": "Mustard Yellow",
-        "sizeName": "M",
-        "quantity": 4,
-        "sizeStock": 5,
-        "price": 408
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "Standard Shipping (5-7 days)",
-      "shippingFee": 8
-    },
-    "addresses": {
-      "billing": [
-        "Lynn Reynolds",
-        "814 Ondricka Lights",
-        "New Ed",
-        "Iowa",
-        "23090"
-      ],
-      "shipping": [
-        "Lynn Reynolds",
-        "814 Ondricka Lights",
-        "New Ed",
-        "Iowa",
-        "23090"
+        "Lana Gislason",
+        "04414 Willy Radial",
+        "El Centro",
+        "Arkansas",
+        "99772-9643"
       ]
     },
     "paymentMethod": "Paypal"

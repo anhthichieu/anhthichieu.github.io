@@ -41,7 +41,15 @@ function getItems() {
 }
 
 function getAddress() {
-  const billing = [faker.name.findName(), faker.address.streetAddress(), faker.address.city(), faker.address.state(), faker.address.zipCodeByState()];
+  const billing = [
+    faker.name.findName(),
+    faker.address.streetAddress(),
+    faker.address.city(),
+    faker.address.state(),
+    faker.address.zipCodeByState(),
+    faker.address.country(),
+    faker.address.zipCode(),
+  ];
 
   let isBillingAndShippingSame = faker.datatype.boolean();
   let shipping;

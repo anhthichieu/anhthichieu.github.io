@@ -1,100 +1,8 @@
 [
   {
-    "orderNo": "646750882",
-    "status": "Cancelled",
+    "orderNo": "356749374",
+    "status": "In Processing",
     "items": [
-      {
-        "productId": 1,
-        "image": "/img/products/women/product1-color2-1.jpeg",
-        "name": "Harper Ankle Strap Heels",
-        "variantColor": "Blue",
-        "sizeName": "7.5",
-        "quantity": 2,
-        "sizeStock": 5,
-        "price": 154.38000000000002
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "1-2 day Shipping",
-      "shippingFee": 18
-    },
-    "addresses": {
-      "billing": [
-        "Mr. Alton Yost",
-        "7204 Hammes Plains",
-        "Jeradborough",
-        "Arizona",
-        "92449-9873",
-        "Russian Federation",
-        "40594"
-      ],
-      "shipping": [
-        "Mr. Alton Yost",
-        "7204 Hammes Plains",
-        "Jeradborough",
-        "Arizona",
-        "92449-9873",
-        "Russian Federation",
-        "40594"
-      ]
-    },
-    "paymentMethod": "Debit Mastercard"
-  },
-  {
-    "orderNo": "270302800",
-    "status": "Cancelled",
-    "items": [
-      {
-        "productId": 20,
-        "image": "/img/products/kids/product4-color1-1.jpeg",
-        "name": "Classic Homeboots",
-        "variantColor": "Silver Sage",
-        "sizeName": "11",
-        "quantity": 1,
-        "sizeStock": 5,
-        "price": 358.83000000000004
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "Standard Shipping (5-7 days)",
-      "shippingFee": 8
-    },
-    "addresses": {
-      "billing": [
-        "Olive Stamm",
-        "5906 Dominique Harbor",
-        "New Aidenview",
-        "Massachusetts",
-        "30229",
-        "Cyprus",
-        "48251-1611"
-      ],
-      "shipping": [
-        "Olive Stamm",
-        "5906 Dominique Harbor",
-        "New Aidenview",
-        "Massachusetts",
-        "30229",
-        "Cyprus",
-        "48251-1611"
-      ]
-    },
-    "paymentMethod": "Paypal"
-  },
-  {
-    "orderNo": "481782361",
-    "status": "Awating Pickup",
-    "items": [
-      {
-        "productId": 17,
-        "image": "/img/products/kids/product1-color2-1.jpeg",
-        "name": "Emmy Oversized Denim Jacket",
-        "variantColor": "Bleach Wash/Contrast Floral",
-        "sizeName": "S",
-        "quantity": 1,
-        "sizeStock": 3,
-        "price": 28.439999999999998
-      },
       {
         "productId": 6,
         "image": "/img/products/women/product6-color3-1.jpeg",
@@ -106,14 +14,95 @@
         "price": 209
       },
       {
-        "productId": 3,
-        "image": "/img/products/women/product3-color1-1.jpeg",
-        "name": "Fayth Chunky Sneakers",
-        "variantColor": "White and Green",
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
         "sizeName": "7.5",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 154.38000000000002
+      },
+      {
+        "productId": 12,
+        "image": "/img/products/men/product4-color1-1.jpeg",
+        "name": "Essential Fleece Pullover",
+        "variantColor": "Washed Teal",
+        "sizeName": "M",
         "quantity": 1,
         "sizeStock": 2,
-        "price": 499
+        "price": 69
+      },
+      {
+        "productId": 20,
+        "image": "/img/products/kids/product4-color1-1.jpeg",
+        "name": "Classic Homeboots",
+        "variantColor": "Silver Sage",
+        "sizeName": "11",
+        "quantity": 1,
+        "sizeStock": 5,
+        "price": 358.83000000000004
+      },
+      {
+        "productId": 17,
+        "image": "/img/products/kids/product1-color2-1.jpeg",
+        "name": "Emmy Oversized Denim Jacket",
+        "variantColor": "Bleach Wash/Contrast Floral",
+        "sizeName": "S",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 28.439999999999998
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Don O'Reilly",
+        "9879 Renner Springs",
+        "South Katherynmouth",
+        "Oregon",
+        "33185-4991",
+        "Saint Lucia",
+        "75311"
+      ],
+      "shipping": [
+        "Don O'Reilly",
+        "9879 Renner Springs",
+        "South Katherynmouth",
+        "Oregon",
+        "33185-4991",
+        "Saint Lucia",
+        "75311"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "715341096",
+    "status": "Cancelled",
+    "items": [
+      {
+        "productId": 8,
+        "image": "/img/products/women/product8-color2-1.jpeg",
+        "name": "Shasta Suede Ankle Booties",
+        "variantColor": "Black",
+        "sizeName": "11.5",
+        "quantity": 1,
+        "sizeStock": 4,
+        "price": 480
+      },
+      {
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
+        "sizeName": "7.5",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 154.38000000000002
       },
       {
         "productId": 2,
@@ -126,67 +115,6 @@
         "price": 408
       },
       {
-        "productId": 12,
-        "image": "/img/products/men/product4-color1-1.jpeg",
-        "name": "Essential Fleece Pullover",
-        "variantColor": "Washed Teal",
-        "sizeName": "M",
-        "quantity": 1,
-        "sizeStock": 2,
-        "price": 69
-      }
-    ],
-    "shipping": {
-      "shippingMethod": "1-2 day Shipping",
-      "shippingFee": 18
-    },
-    "addresses": {
-      "billing": [
-        "Juanita Konopelski",
-        "5221 Casandra Fields",
-        "Wellington",
-        "Idaho",
-        "17562",
-        "Canada",
-        "63379"
-      ],
-      "shipping": [
-        "Juanita Konopelski",
-        "5221 Casandra Fields",
-        "Wellington",
-        "Idaho",
-        "17562",
-        "Canada",
-        "63379"
-      ]
-    },
-    "paymentMethod": "Paypal"
-  },
-  {
-    "orderNo": "184898837",
-    "status": "Delivered",
-    "items": [
-      {
-        "productId": 15,
-        "image": "/img/products/men/product7-color2-1.jpeg",
-        "name": "Lorne Sunglasses",
-        "variantColor": "Tort/Green",
-        "sizeName": "One size",
-        "quantity": 2,
-        "sizeStock": 5,
-        "price": 338.12
-      },
-      {
-        "productId": 3,
-        "image": "/img/products/women/product3-color1-1.jpeg",
-        "name": "Fayth Chunky Sneakers",
-        "variantColor": "White and Green",
-        "sizeName": "7.5",
-        "quantity": 1,
-        "sizeStock": 2,
-        "price": 499
-      },
-      {
         "productId": 6,
         "image": "/img/products/women/product6-color3-1.jpeg",
         "name": "Sidewalk Stunner Vegan Leather Backpack",
@@ -198,34 +126,146 @@
       }
     ],
     "shipping": {
-      "shippingMethod": "1-2 day Shipping",
-      "shippingFee": 18
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
     },
     "addresses": {
       "billing": [
-        "Hazel Hackett",
-        "53548 Littel Shore",
-        "Clarkfurt",
-        "Connecticut",
-        "80351",
-        "Pakistan",
-        "58660-6087"
+        "Mr. Kristie Ernser",
+        "2147 Beer Knolls",
+        "Trevatown",
+        "Montana",
+        "08498-3920",
+        "Turkey",
+        "22297"
       ],
       "shipping": [
-        "Hazel Hackett",
-        "53548 Littel Shore",
-        "Clarkfurt",
-        "Connecticut",
-        "80351",
-        "Pakistan",
-        "58660-6087"
+        "Mr. Kristie Ernser",
+        "2147 Beer Knolls",
+        "Trevatown",
+        "Montana",
+        "08498-3920",
+        "Turkey",
+        "22297"
       ]
     },
     "paymentMethod": "Debit Mastercard"
   },
   {
-    "orderNo": "266366397",
-    "status": "Shipped",
+    "orderNo": "750198466",
+    "status": "Cancelled",
+    "items": [
+      {
+        "productId": 19,
+        "image": "/img/products/kids/product3-color1-1.jpeg",
+        "name": "Libby Sleeveless Dress",
+        "variantColor": "Indigo Blue Wash",
+        "sizeName": "XL",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 280
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
+    },
+    "addresses": {
+      "billing": [
+        "Stacey Kertzmann",
+        "1826 Jeanne Road",
+        "New Tatyana",
+        "Missouri",
+        "17607-1224",
+        "Trinidad and Tobago",
+        "35925-4241"
+      ],
+      "shipping": [
+        "Henry Johnston",
+        "1451 Kieran Trail",
+        "Lemueltown",
+        "North Carolina",
+        "07706",
+        "Cuba",
+        "15407"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "865062694",
+    "status": "Awating Pickup",
+    "items": [
+      {
+        "productId": 20,
+        "image": "/img/products/kids/product4-color1-1.jpeg",
+        "name": "Classic Homeboots",
+        "variantColor": "Silver Sage",
+        "sizeName": "11",
+        "quantity": 1,
+        "sizeStock": 5,
+        "price": 358.83000000000004
+      },
+      {
+        "productId": 19,
+        "image": "/img/products/kids/product3-color1-1.jpeg",
+        "name": "Libby Sleeveless Dress",
+        "variantColor": "Indigo Blue Wash",
+        "sizeName": "XL",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 280
+      },
+      {
+        "productId": 2,
+        "image": "/img/products/women/product2-color1-1.jpeg",
+        "name": "In the Meadows Crochet Lace Babydoll Dress",
+        "variantColor": "Mustard Yellow",
+        "sizeName": "M",
+        "quantity": 4,
+        "sizeStock": 5,
+        "price": 408
+      },
+      {
+        "productId": 1,
+        "image": "/img/products/women/product1-color2-1.jpeg",
+        "name": "Harper Ankle Strap Heels",
+        "variantColor": "Blue",
+        "sizeName": "7.5",
+        "quantity": 2,
+        "sizeStock": 5,
+        "price": 154.38000000000002
+      }
+    ],
+    "shipping": {
+      "shippingMethod": "1-2 day Shipping",
+      "shippingFee": 18
+    },
+    "addresses": {
+      "billing": [
+        "Lois Boehm",
+        "245 Bessie View",
+        "South Genesis",
+        "Wyoming",
+        "85275-3401",
+        "Colombia",
+        "84486-1753"
+      ],
+      "shipping": [
+        "Lois Boehm",
+        "245 Bessie View",
+        "South Genesis",
+        "Wyoming",
+        "85275-3401",
+        "Colombia",
+        "84486-1753"
+      ]
+    },
+    "paymentMethod": "Paypal"
+  },
+  {
+    "orderNo": "750238342",
+    "status": "Partially Shipped",
     "items": [
       {
         "productId": 8,
@@ -236,6 +276,26 @@
         "quantity": 1,
         "sizeStock": 4,
         "price": 480
+      },
+      {
+        "productId": 19,
+        "image": "/img/products/kids/product3-color1-1.jpeg",
+        "name": "Libby Sleeveless Dress",
+        "variantColor": "Indigo Blue Wash",
+        "sizeName": "XL",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 280
+      },
+      {
+        "productId": 12,
+        "image": "/img/products/men/product4-color1-1.jpeg",
+        "name": "Essential Fleece Pullover",
+        "variantColor": "Washed Teal",
+        "sizeName": "M",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 69
       },
       {
         "productId": 6,
@@ -254,81 +314,105 @@
     },
     "addresses": {
       "billing": [
-        "Carol Bednar",
-        "3672 Mertz Forge",
-        "St. Peters",
-        "Wisconsin",
-        "54033",
-        "Brazil",
-        "34638-5824"
+        "Manuel Moore",
+        "990 Camden Grove",
+        "North Beulahberg",
+        "New Mexico",
+        "01167",
+        "Puerto Rico",
+        "82813-1233"
       ],
       "shipping": [
-        "Delia Carter",
-        "4231 Pfannerstill Pines",
-        "Port Javonmouth",
-        "Arizona",
-        "83922"
+        "Angel Padberg",
+        "26210 O'Connell Glens",
+        "Schroederstad",
+        "Illinois",
+        "00563-6866",
+        "China",
+        "62029-6713"
       ]
     },
     "paymentMethod": "Debit Mastercard"
   },
   {
-    "orderNo": "568141003",
-    "status": "Cancelled",
+    "orderNo": "703585880",
+    "status": "In Processing",
     "items": [
       {
-        "productId": 15,
-        "image": "/img/products/men/product7-color2-1.jpeg",
-        "name": "Lorne Sunglasses",
-        "variantColor": "Tort/Green",
-        "sizeName": "One size",
-        "quantity": 2,
-        "sizeStock": 5,
-        "price": 338.12
-      },
-      {
-        "productId": 1,
-        "image": "/img/products/women/product1-color2-1.jpeg",
-        "name": "Harper Ankle Strap Heels",
-        "variantColor": "Blue",
-        "sizeName": "7.5",
-        "quantity": 2,
-        "sizeStock": 5,
-        "price": 154.38000000000002
-      },
-      {
-        "productId": 8,
-        "image": "/img/products/women/product8-color2-1.jpeg",
-        "name": "Shasta Suede Ankle Booties",
-        "variantColor": "Black",
-        "sizeName": "11.5",
+        "productId": 12,
+        "image": "/img/products/men/product4-color1-1.jpeg",
+        "name": "Essential Fleece Pullover",
+        "variantColor": "Washed Teal",
+        "sizeName": "M",
         "quantity": 1,
-        "sizeStock": 4,
-        "price": 480
+        "sizeStock": 2,
+        "price": 69
+      },
+      {
+        "productId": 3,
+        "image": "/img/products/women/product3-color1-1.jpeg",
+        "name": "Fayth Chunky Sneakers",
+        "variantColor": "White and Green",
+        "sizeName": "7.5",
+        "quantity": 1,
+        "sizeStock": 2,
+        "price": 499
+      },
+      {
+        "productId": 20,
+        "image": "/img/products/kids/product4-color1-1.jpeg",
+        "name": "Classic Homeboots",
+        "variantColor": "Silver Sage",
+        "sizeName": "11",
+        "quantity": 1,
+        "sizeStock": 5,
+        "price": 358.83000000000004
+      },
+      {
+        "productId": 6,
+        "image": "/img/products/women/product6-color3-1.jpeg",
+        "name": "Sidewalk Stunner Vegan Leather Backpack",
+        "variantColor": "Grey",
+        "sizeName": "One size",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 209
+      },
+      {
+        "productId": 17,
+        "image": "/img/products/kids/product1-color2-1.jpeg",
+        "name": "Emmy Oversized Denim Jacket",
+        "variantColor": "Bleach Wash/Contrast Floral",
+        "sizeName": "S",
+        "quantity": 1,
+        "sizeStock": 3,
+        "price": 28.439999999999998
       }
     ],
     "shipping": {
-      "shippingMethod": "1-2 day Shipping",
-      "shippingFee": 18
+      "shippingMethod": "Standard Shipping (5-7 days)",
+      "shippingFee": 8
     },
     "addresses": {
       "billing": [
-        "Glenda Harris",
-        "4259 Colby Trafficway",
-        "Monroe",
-        "Kansas",
-        "03192",
-        "Angola",
-        "05528-3081"
+        "Julius Green",
+        "8376 Davon Stravenue",
+        "Delray Beach",
+        "New Jersey",
+        "11900",
+        "Saint Vincent and the Grenadines",
+        "00763-3401"
       ],
       "shipping": [
-        "Lana Gislason",
-        "04414 Willy Radial",
-        "El Centro",
-        "Arkansas",
-        "99772-9643"
+        "Julius Green",
+        "8376 Davon Stravenue",
+        "Delray Beach",
+        "New Jersey",
+        "11900",
+        "Saint Vincent and the Grenadines",
+        "00763-3401"
       ]
     },
-    "paymentMethod": "Paypal"
+    "paymentMethod": "Debit Mastercard"
   }
 ]

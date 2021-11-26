@@ -57,7 +57,14 @@ function getAddress() {
   if (isBillingAndShippingSame) {
     shipping = [...billing];
   } else {
-    shipping = [faker.name.findName(), faker.address.streetAddress(), faker.address.city(), faker.address.state(), faker.address.zipCodeByState()];
+    shipping = [
+      faker.name.findName(),
+      faker.address.streetAddress(),
+      faker.address.city(),
+      faker.address.state(),
+      faker.address.zipCodeByState(),
+      faker.address.country(),
+      faker.address.zipCode(),];
   }
 
   let addresses = { billing, shipping };
